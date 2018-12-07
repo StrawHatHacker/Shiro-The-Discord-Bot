@@ -1,4 +1,6 @@
-[![License Ok][https://img.shields.io/badge/License-Mozilla%20Public%20License%202.0-green.svg]][https://www.mozilla.org/en-US/MPL/2.0/]
+![license][https://img.shields.io/badge/License-Mozilla%20Public%20License%202.0-green.svg]
+
+
 ## Documentation
 **►** [**Invite Link**](https://goo.gl/KbFYzT)
 
