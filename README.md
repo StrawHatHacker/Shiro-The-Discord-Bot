@@ -1,4 +1,5 @@
 ![license](https://img.shields.io/badge/License-Mozilla%20Public%20License%202.0-green.svg)
+![Guilds](https://img.shields.io/badge/Guilds-12-green.svg)
 
 
 ## Documentation
