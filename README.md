@@ -12,13 +12,17 @@
 ## Documentation
 ## Commands
 ###### Moderation
-* ban \<member\> [reason]
-> Bans the specified member for an optional reason
-* kick
-* mute
-* prune
-* warn
-* report
+* \>ban \<member\> [reason]
+  > Bans the specified member for an optional reason
+* \>kick \<member\> [reason]
+  > Kicks the specified member for an optional reason
+* \>mute \<member\> [time] [reason]
+  > Mutes the specified member by creating (if it doesnt exist) and assigning the *@Muted* role, optional time in minutes, optional reason
+* \>prune <number>
+> Bulk deletes a number of messages (max. 100). Aliases: *purge*, *clear*
+* \>warn
+  >
+* \>report
 ###### Information
 ###### Reactions
 ###### Games
