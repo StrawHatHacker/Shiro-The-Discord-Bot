@@ -1,4 +1,4 @@
-![license][https://img.shields.io/badge/License-Mozilla%20Public%20License%202.0-green.svg]
+![license](https://img.shields.io/badge/License-Mozilla%20Public%20License%202.0-green.svg)
 
 
 ## Documentation
