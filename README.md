@@ -26,36 +26,43 @@
    > Reports the mentioned members to the server owner [reason optional]
   
 ###### Information
+* **\>help**
+  > Shows all commands
+* **\>setup**
+  > Shows all server commands
 * **\>serverinfo**
   > Returns information related to the server: Icon, Onwer, Region, Member Count, Emoji Count, Text, Voice Channels and Roles
-* **\>userinfo \<member\>**
+* **\>userinfo [member]**
   > Returns information related to a user: Icon, Full Name, ID, Status, Presence, Join Date, Account Creation Date and Roles
-* \>
-* \>
-* \>
-* \>
-* \>
+* **\>botstatus**
+  > Returns information related to the bot: Icon, Owner, Language, Ping, Api Ping Time, Bot Uptime, System Uptime, System Info and useful links
+* **\>changelog**
+  > Returns information about the bot version
+* **\>invite**
+  > Returns the bot's invite link
 ###### Reactions
-* \>
+* \> kiss, hug, pat, lick, tickle, bite, poke, pinch, slap, blush, mad, scared, tired, cry, run, nervous, pout, plot
 ###### Games
-* \>
-* \>
-* \>
-* \>
-* \>
-* \>
-* \>
-* \>
-* \>
-* \>
-* \>
-* \>
+* **\>say \<text\>**
+  > Deletes the original message and then returns its contents
+* **\>embed [text]**
+  > Embeds the text into a cute embed
+* **\>dice**
+  > Rolls the dice, pretty straightforward
+* **\>8ball \<text\>**
+  > Emulates the 8ball game
+* **\>team \<text\> \<text\> \<text\>....**
+  > Returns an embed seperating the arguments randomly into 2 teams
+* **\>ship \<arg1\> \<arg2\>**
+  > Returns how compatible 2 people are with each other, 2 arguments should be given only for it to work properly and they can be mentions too
+* **\>rps \<rock or paper or scissors\>**
+  > Emulates a rock, paper, scissors game with the bot
 ###### Fun
-* \>
-* \>
-* \>
-* \>
-* \>
+* **\>movie \<movie name\>**
+* **\>urban \<word or phrase\>**
+* **\>weather**
+* **\>itunes**
+* **\>dog**
 * \>
 * \>
 * \>
