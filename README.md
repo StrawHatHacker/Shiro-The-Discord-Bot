@@ -84,7 +84,7 @@
   > Returns a random fact, that's all
 * **\>insult**
   > Returns a random fancy insult. Try not to offend anyone
-* **\>size**
+* **\>size [member]**
   > Returns the size of your pickle ( ͡° ͜ʖ ͡°) 100% accuracy. Aliases: *pickle*
 * **\>randomcolor**
   > Returns an embed with information about a randomly generated color. Aliases: *rc*
