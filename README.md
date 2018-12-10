@@ -92,11 +92,23 @@
   > Fetches a random (nsfw) picture, provide only one tag for more accurate results. Aliases: *34*, *yan*, *dan*, *gel*, *xb*, *rb*
 ## Server Configuring/Settings
 * **\>setmodlog \<channel id\>**
+  > Sets the channel in which the bot will log: Bans, Unbans, Kicks, Mutes, Unmutes, Warns, Filtered Words Warns, Deleted Invites and links
+  Aliases: *smod*
 * **\>disablemodlog**
+  > Completely disables the moderation logging, channel has to be reassigned to enable it back (*>setmodlog \<channel id\>*)
+  Aliases: *dmod*
 * **\>setchatlog \<channel id\>**
+  > Sets the channel in which the bot will log: Deleted, Edited Messages and Bulk Deletions
+  Aliases: *schat*
 * **\>disablechatlog**
+  > Completely disables the chat logging, channel has to be reassigned to enable it back (*>setchatlog \<channel id\>*)
+  Aliases: *dchat*
 * **\>setchangelog \<channel id\>**
+  > Sets the channel in which the bot will log: Name, Nickname, Channel, Emoji, Role changes
+  Aliases: *schange*
 * **\>disablechangelog**
+  > Completely disables the change logging, channel has to be reassigned to enable it back (*>setchangelog \<channel id\>*)
+  Aliases: *dchange*
 * **\>filter**
 * **\>filteradd \<word\>**
 * **\>filterremove \<word\>**
