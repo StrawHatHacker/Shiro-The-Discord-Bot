@@ -42,7 +42,7 @@
 * **\>invite**
   > Returns the bot's invite link
 ###### Reactions
-* **\> kiss, hug, pat, lick, tickle, bite, poke, pinch, slap, blush, mad, scared, tired, cry, run, nervous, pout, plot**
+* **\> kiss, hug, pat, lick, tickle, bite, poke, pinch, slap, blush, mad, scared, tired, cry, run, nervous, pout**
 ###### Games
 * **\>say \<text\>**
   > Deletes the original message and then returns its contents
@@ -90,7 +90,7 @@
 * **\>randomcolor**
   > Returns an embed with information about a randomly generated color. Aliases: *rc*
 ##### Nsfw
-* **\>rule34 \<tag\>, yandere \<tag\>, danbooru \<tag\>, gelbooru \<tag\>, xbooru \<tag\>, realbooru \<tag\>**
+* **\>rule34 \<tag\>, yandere \<tag\>, danbooru \<tag\>, gelbooru \<tag\>, xbooru \<tag\>, realbooru \<tag\>, plot**
   > Fetches a random (nsfw) picture, provide only one tag for more accurate results. Aliases: *34*, *yan*, *dan*, *gel*, *xb*, *rb*
 ## Server Configuring/Settings
 * **\>setmodlog \<channel id\>**
