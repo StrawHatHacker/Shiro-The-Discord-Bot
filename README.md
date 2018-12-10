@@ -24,6 +24,8 @@
   > Warns the mentioned member [reason optional]
 * **\>report \<members\> [reason]**
    > Reports the mentioned members to the server owner [reason optional]
+   
+   > *For supporters only*
 ###### Information
 * **\>help**
   > Shows all commands
@@ -92,30 +94,34 @@
   > Fetches a random (nsfw) picture, provide only one tag for more accurate results. Aliases: *34*, *yan*, *dan*, *gel*, *xb*, *rb*
 ## Server Configuring/Settings
 * **\>setmodlog \<channel id\>**
-  > Sets the channel in which the bot will log: Bans, Unbans, Kicks, Mutes, Unmutes, Warns, Filtered Words Warns, Deleted Invites and links
-  Aliases: *smod*
+  > Sets the channel in which the bot will log: Bans, Unbans, Kicks, Mutes, Unmutes, Warns, Filtered Words Warns, Deleted Invites and links. Aliases: *smod*
 * **\>disablemodlog**
-  > Completely disables the moderation logging, channel has to be reassigned to enable it back (*>setmodlog \<channel id\>*)
+  > Completely disable the moderation logging, channel has to be reassigned to enable it back (*>setmodlog \<channel id\>*)
   Aliases: *dmod*
 * **\>setchatlog \<channel id\>**
-  > Sets the channel in which the bot will log: Deleted, Edited Messages and Bulk Deletions
-  Aliases: *schat*
+  > Set the channel in which the bot will log: Deleted, Edited Messages and Bulk Deletions. Aliases: *schat*
 * **\>disablechatlog**
-  > Completely disables the chat logging, channel has to be reassigned to enable it back (*>setchatlog \<channel id\>*)
+  > Completely disable the chat logging, channel has to be reassigned to enable it back (*>setchatlog \<channel id\>*)
   Aliases: *dchat*
 * **\>setchangelog \<channel id\>**
-  > Sets the channel in which the bot will log: Name, Nickname, Channel, Emoji, Role changes
-  Aliases: *schange*
+  > Set the channel in which the bot will log: Name, Nickname, Channel, Emoji, Role changes. Aliases: *schange*
 * **\>disablechangelog**
-  > Completely disables the change logging, channel has to be reassigned to enable it back (*>setchangelog \<channel id\>*)
+  > Completely disable the change logging, channel has to be reassigned to enable it back (*>setchangelog \<channel id\>*)
   Aliases: *dchange*
 * **\>filter**
+  > Toggle chat filtering on or off
 * **\>filteradd \<word\>**
+  > Add a word to the bad word list (max 10 words, for supporters the limit is 20 words). Aliases: *fa*
 * **\>filterremove \<word\>**
+  > Remove a word from the bad word list. Aliases: *fr*
 * **\>filterlist**
+  > See all the bad words set to be filtered. Aliases: *fl*
 * **\>blockinvites**
+  > Toggle server invite deletion on or off. Aliases: *bi*
 * **\>blocklinks**
+  > Toggle link deletion on or off. Aliases: *bl*
 * **\>mentionlimit \<number\>**
+  > Set the max mentions a message is allowed to have (*\>mentionlimit 0* to disable). Aliases: *ml*
 * **\>joinmessage**
 * **\>setjoinchannel \<channel name or id\>**
 * **\>setjoinmessage \<text\>**
