@@ -10,7 +10,7 @@
 **►** [**Support Server**](https://discord.gg/ypEBGHB)
 ***
 ## Documentation
-## Commands
+### Commands
 ###### Moderation
 * **\>ban \<member\> [reason]**
   > Bans the specified member for an optional reason
@@ -24,7 +24,6 @@
   > Warns the mentioned member [reason optional]
 * **\>report \<members\> [reason]**
    > Reports the mentioned members to the server owner [reason optional]
-  
 ###### Information
 * **\>help**
   > Shows all commands
@@ -91,4 +90,29 @@
 ##### Nsfw
 * **\>rule34 \<tag\>, yandere \<tag\>, danbooru \<tag\>, gelbooru \<tag\>, xbooru \<tag\>, realbooru \<tag\>**
   > Fetches a random (nsfw) picture, provide only one tag for more accurate results. Aliases: *34*, *yan*, *dan*, *gel*, *xb*, *rb*
+## Server Configuring/Settings
+* **\>setmodlog \<channel id\>**
+* **\>disablemodlog**
+* **\>setchatlog \<channel id\>**
+* **\>disablechatlog**
+* **\>setchangelog \<channel id\>**
+* **\>disablechangelog**
+* **\>filter**
+* **\>filteradd \<word\>**
+* **\>filterremove \<word\>**
+* **\>filterlist**
+* **\>blockinvites**
+* **\>blocklinks**
+* **\>mentionlimit \<number\>**
+* **\>joinmessage**
+* **\>setjoinchannel \<channel name or id\>**
+* **\>setjoinmessage \<text\>**
+* **\>leavemessage**
+* **\>setleavechannel \channel name or id\>**
+* **\>setleavemessage \<text\>**
+* **\>autorole**
+* **\>autoroleadd \<role name or id\>**
+* **\>autoroleremove \<role name or id\>**
+* **\>autorolelist**
+  
 ![shiro](https://i.imgur.com/hq7t1v1.jpg)
