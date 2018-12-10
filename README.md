@@ -1,4 +1,4 @@
-![Shiro](https://i.imgur.com/xmUeXN2.jpg)
+![Shiro](https://i.imgur.com/0zGSqDL.png)
 ![Info](https://img.shields.io/badge/Lib-Discord.js-blue.svg)
 ![Info2](https://img.shields.io/badge/DB-MongoDB-blue.svg)
 ![Guilds](https://img.shields.io/badge/Guilds-12-green.svg)
