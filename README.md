@@ -65,7 +65,7 @@
   > Returns information about a word or phrase taken from Urban Dictionary\nReturned Info: Definition, Author, Upvotes & Downvotes and an example. Aliases: *ud*
 * **\>weather \<city or area\>**
   > Returns weather information for the specified city or area\nReturned Info: What the weather looks like, Date, Timezone, Temperature, Humidity, Wind and obervation point
-* **\>fortnite \<platform\> \<username\>**
+* **\>fortnite \<platform\> [username]**
   > Returns fortnite stats for the specified user on the specified platform(*pc*, *xbox*, *ps4*)\nReturned Info: Solo/Duo/Squad Wins, Kd, Matches Played, Kills
 * **\>itunes  \<type\> \<item\>**
   > Returns information from iTunes about a product\nTypes are: *music*, *movie*, *podcast*, *audiobook*, *ebook*, *software*, *all*\nTerm *all* will return 10 results with that correspond to the *name* regardless of their category
