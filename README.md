@@ -68,7 +68,7 @@
 * **\>fortnite \<platform\> [username]**
   > Returns fortnite stats for the specified user on the specified platform(*pc*, *xbox*, *ps4*)\nReturned Info: Solo/Duo/Squad Wins, Kd, Matches Played, Kills
 * **\>itunes  \<type\> \<item\>**
-  > Returns information from iTunes about a product\nTypes are: *music*, *movie*, *podcast*, *audiobook*, *ebook*, *software*, *all*\nTerm *all* will return 10 results with that correspond to the *name* regardless of their category
+  > Returns information from iTunes about a product. Types are: *music*, *movie*, *podcast*, *audiobook*, *ebook*, *software*, *all*. Term *all* will return 10 results with that correspond to the *name* regardless of their category
 * **\> dog, shibe, cat, bird, fox, lizard**
   > Fetches animals pictures
 * **\> chuckjoke, punchjoke, mamajoke, dadjoke**
