@@ -8,6 +8,13 @@
 **►** [**Invite Link**](https://goo.gl/KbFYzT)
 
 **►** [**Support Server**](https://discord.gg/ypEBGHB)
+
+<details><summary>Email</summary>
+<p>
+  shirothediscordbot@gmail.com
+</p>
+</details>
+
 ***
 ## Documentation
 ### Commands
