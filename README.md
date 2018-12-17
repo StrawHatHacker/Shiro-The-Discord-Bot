@@ -147,8 +147,10 @@
   > eg. *>setleavemessage Sad to see you go --username*
 ***
 * **\>autorole**
+  > Toggle autorole function on or off. Autorole is the role that a members receives when they join the server
 * **\>autoroleadd \<role name or id\>**
+  > Add a role to the autorole list (max 1 roles, for supporters the limit is 10 roles). Aliases: *ara*
 * **\>autoroleremove \<role name or id\>**
+  > Remove a role from the autorole list. Aliases: *arr*
 * **\>autorolelist**
-  
-![shiro](https://i.imgur.com/hq7t1v1.jpg)
+  > See all the roles that are set to be given when a new members join. This command will also clear the autorole list from roles that have been deleted (this will be improved in the future). Aliases: *arl*
