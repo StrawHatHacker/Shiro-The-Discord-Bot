@@ -122,14 +122,20 @@
   > Toggle link deletion on or off. Aliases: *bl*
 * **\>mentionlimit \<number\>**
   > Set the max mentions a message is allowed to have (*\>mentionlimit 0* to disable). Aliases: *ml*
-* **\>joinmessage \<text\>**
-  > Set the message that will displayed when a member joins the server.
-  
-  You can add (*--mention, --username, --id, --created*) in the message. They will get replaced by the the new member's *tag*, *username* + *discriminator*, *id*, and *date* that their account was created.
+* **\>joinmessage**
+  > Toggle welcome messages on or off
 * **\>setjoinchannel \<channel name or id\>**
+  > Set the channel in which the bot will welcome new members
 * **\>setjoinmessage \<text\>**
+  > > Set the message that will displayed when a member joins the server. Aliases: *jm*
+  > 
+  > You can add (*--mention, --username, --id, --created*) in the message. When the the message will get sent they will be replaced by the the new member's *tag*, *username* + *discriminator*, *id*, and *date* that their account was created, .
+  > 
+  > eg. *>joinmessage Welcome --mention to the server (--id)*
 * **\>leavemessage**
+  > Toggle leave messages on or off
 * **\>setleavechannel \channel name or id\>**
+  > Set the channel in which the bot will send a message when a member leaves
 * **\>setleavemessage \<text\>**
 * **\>autorole**
 * **\>autoroleadd \<role name or id\>**
