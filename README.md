@@ -11,7 +11,7 @@
 ***
 ## Documentation
 ### Commands
-###### Moderation
+##### Moderation
 * **\>ban \<member\> [reason]**
   > Bans the specified member for an optional reason
 * **\>kick \<member\> [reason]**
@@ -26,7 +26,7 @@
    > Reports the mentioned members to the server owner [reason optional]
    
    > *For supporters only*
-###### Information
+##### Information
 * **\>help**
   > Shows all commands
 * **\>setup**
@@ -41,9 +41,9 @@
   > Returns information about the bot version
 * **\>invite**
   > Returns the bot's invite link
-###### Reactions
+##### Reactions
 * **\> kiss, hug, pat, lick, tickle, bite, poke, pinch, slap, blush, mad, scared, tired, cry, run, nervous**
-###### Games
+##### Games
 * **\>say \<text\>**
   > Deletes the original message and then returns its contents
 * **\>embed [text]**
@@ -58,7 +58,7 @@
   > Returns how compatible 2 people are with each other, 2 arguments should be given only for it to work properly and they can be mentions too
 * **\>rps \<rock or paper or scissors\>**
   > Emulates a rock, paper, scissors game with the bot
-###### Fun
+##### Fun
 * **\>movie \<movie name\>**
   > Returns information about a movie taken from the OMDB Api \nReturned Info: Title, Release date, Runtime, Genre, Director, Writer, Plot/Summary, Imdb rating, Type
 * **\>urban \<word or phrase\>**
@@ -93,17 +93,17 @@
 * **\>rule34 \<tag\>, yandere \<tag\>, danbooru \<tag\>, gelbooru \<tag\>, xbooru \<tag\>, realbooru \<tag\>, plot**
   > Fetches a random (nsfw) picture, provide only one tag for more accurate results. Aliases: *34*, *yan*, *dan*, *gel*, *xb*, *rb*
 ## Server Configuring/Settings
-* **\>setmodlog \<channel id\>**
-  > Sets the channel in which the bot will log: Bans, Unbans, Kicks, Mutes, Unmutes, Warns, Filtered Words Warns, Deleted Invites and links. Aliases: *smod*
+* **\>setmodlog \<channel name or id\>**
+  > Sets the channel in which the bot will log: Bans, Unbans, Kicks, Mutes, Unmutes, Warns, Filtered Words Warns, Filtered server invites and links. Aliases: *smod*
 * **\>disablemodlog**
   > Completely disable the moderation logging, channel has to be reassigned to enable it back (*>setmodlog \<channel id\>*)
   Aliases: *dmod*
-* **\>setchatlog \<channel id\>**
+* **\>setchatlog \<channel name or id\>**
   > Set the channel in which the bot will log: Deleted, Edited Messages and Bulk Deletions. Aliases: *schat*
 * **\>disablechatlog**
   > Completely disable the chat logging, channel has to be reassigned to enable it back (*>setchatlog \<channel id\>*)
   Aliases: *dchat*
-* **\>setchangelog \<channel id\>**
+* **\>setchangelog \<channel name or id\>**
   > Set the channel in which the bot will log: Name, Nickname, Channel, Emoji, Role changes. Aliases: *schange*
 * **\>disablechangelog**
   > Completely disable the change logging, channel has to be reassigned to enable it back (*>setchangelog \<channel id\>*)
