@@ -125,7 +125,7 @@
 * **\>blocklinks**
   > Toggle link deletion on or off. Aliases: *bl*
 * **\>mentionlimit \<number\>**
-  > Set the max mentions a message is allowed to have (*\>mentionlimit 0* to disable). Aliases: *ml
+  > Set the max mentions a message is allowed to have (*\>mentionlimit 0* to disable). Aliases: *ml*
 ***
 * **\>joinmessage**
   > Toggle welcome messages on or off. Aliases: *jm*
