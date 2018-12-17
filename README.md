@@ -108,6 +108,7 @@
 * **\>disablechangelog**
   > Completely disable the change logging, channel has to be reassigned to enable it back (*>setchangelog \<channel id\>*)
   Aliases: *dchange*
+***
 * **\>filter**
   > Toggle chat filtering on or off
 * **\>filteradd \<word\>**
@@ -116,27 +117,35 @@
   > Remove a word from the bad word list. Aliases: *fr*
 * **\>filterlist**
   > See all the bad words set to be filtered. Aliases: *fl*
+***
 * **\>blockinvites**
   > Toggle server invite deletion on or off. Aliases: *bi*
 * **\>blocklinks**
   > Toggle link deletion on or off. Aliases: *bl*
 * **\>mentionlimit \<number\>**
-  > Set the max mentions a message is allowed to have (*\>mentionlimit 0* to disable). Aliases: *ml*
+  > Set the max mentions a message is allowed to have (*\>mentionlimit 0* to disable). Aliases: *ml
+***
 * **\>joinmessage**
-  > Toggle welcome messages on or off
+  > Toggle welcome messages on or off. Aliases: *jm*
 * **\>setjoinchannel \<channel name or id\>**
-  > Set the channel in which the bot will welcome new members
+  > Set the channel in which the bot will welcome new members. Aliases: *sjc*
 * **\>setjoinmessage \<text\>**
-  > > Set the message that will displayed when a member joins the server. Aliases: *jm*
+  > Set the message that will displayed when a member joins the server. Aliases: *sjm*
   > 
-  > You can add (*--mention, --username, --id, --created*) in the message. When the the message will get sent they will be replaced by the the new member's *tag*, *username* + *discriminator*, *id*, and *date* that their account was created, .
+  > You can add (*--mention, --username, --id, --created*) in the message. When the the message will get sent they will be replaced by the new member's *tag*, *username* + *discriminator*, *id*, and *date* that their account was created
   > 
-  > eg. *>joinmessage Welcome --mention to the server (--id)*
+  > eg. *>setjoinmessage Welcome --mention to the server (--id)*
 * **\>leavemessage**
-  > Toggle leave messages on or off
+  > Toggle leave messages on or off. Aliases: *lm*
 * **\>setleavechannel \channel name or id\>**
-  > Set the channel in which the bot will send a message when a member leaves
+  > Set the channel in which the bot will send a message when a member leaves. Aliases: *slc*
 * **\>setleavemessage \<text\>**
+  > Set the message that will displayed when a member leaves the server. Aliases: *slm*
+  > 
+  > You can add (*--username, --id, --created*) in the message. When the the message will get sent they will be replaced by the member's *username* + *discriminator*, *id*, and *date* that their account was created
+  > 
+  > eg. *>setleavemessage Sad to see you go --username*
+***
 * **\>autorole**
 * **\>autoroleadd \<role name or id\>**
 * **\>autoroleremove \<role name or id\>**
