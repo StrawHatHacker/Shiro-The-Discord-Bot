@@ -30,7 +30,9 @@
 * **\>help**
   > Shows all commands
 * **\>setup**
-  > Shows all server commands
+  > Shows all server configuring commands
+* **\>settings**
+  > Shows an overview of the server's enabled or disabled settings. *note: certain functions are toggled off by default*
 * **\>serverinfo**
   > Returns information related to the server: Icon, Onwer, Region, Member Count, Emoji Count, Text, Voice Channels and Roles
 * **\>userinfo [member]**
@@ -41,7 +43,7 @@
   > Returns information about the bot version
 * **\>invite**
   > Returns the bot's invite link
-##### Reactions
+##### Reactions (400+ unique gifs)
 * **\> kiss, hug, pat, lick, tickle, bite, poke, pinch, slap, blush, mad, scared, tired, cry, run, nervous**
 ##### Games
 * **\>say \<text\>**
