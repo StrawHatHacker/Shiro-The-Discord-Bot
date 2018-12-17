@@ -76,7 +76,7 @@
 * **\>comic**
   > Fetches a random comic
 * **\>react**
-  > Returns a gif depending on the specified reaction(*yes*, *no*, *maybe*)
+  > Returns a gif depending on the specified reaction (*yes*, *no*, *maybe*)
 * **\>fakeid**
   > Returns an embed containing fake user infomation (*Name*, *Gender*, *Age*, *Region*, *Phone number*, *Email*, *Password*)
 * **\>advice**
