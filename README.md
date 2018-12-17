@@ -123,7 +123,9 @@
 * **\>mentionlimit \<number\>**
   > Set the max mentions a message is allowed to have (*\>mentionlimit 0* to disable). Aliases: *ml*
 * **\>joinmessage \<text\>**
-  > Set the message that will displayed when a member joins the server. You can add (*--mention, --username, --id, --created*) in the message. They will get replaced by the the new member's *tag*, *username* + *discriminator*, *id*, and *date* that their account was created.
+  > Set the message that will displayed when a member joins the server.
+  
+  You can add (*--mention, --username, --id, --created*) in the message. They will get replaced by the the new member's *tag*, *username* + *discriminator*, *id*, and *date* that their account was created.
 * **\>setjoinchannel \<channel name or id\>**
 * **\>setjoinmessage \<text\>**
 * **\>leavemessage**
