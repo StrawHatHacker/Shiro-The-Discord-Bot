@@ -76,8 +76,12 @@
   > Returns weather information for the specified city or area\nReturned Info: What the weather looks like, Date, Timezone, Temperature, Humidity, Wind and obervation point
 * **\>fortnite \<platform\> [username]**
   > Returns fortnite stats for the specified user on the specified platform(*pc*, *xbox*, *ps4*)\nReturned Info: Solo/Duo/Squad Wins, Kd, Matches Played, Kills
+  
+  > *For supporters only*
 * **\>itunes  \<type\> \<item\>**
   > Returns information from iTunes about a product. Types are: *music*, *movie*, *podcast*, *audiobook*, *ebook*, *software*, *all*. Term *all* will return 10 results with that correspond to the *name* regardless of their category
+  
+  > *For supporters only*
 * **\> dog, shibe, cat, bird, fox, lizard**
   > Fetches animals pictures
 * **\> chuckjoke, punchjoke, mamajoke, dadjoke**
