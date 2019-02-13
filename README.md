@@ -24,9 +24,9 @@
 * **\>kick \<members\> [reason]**
   > Kicks the specified members for an optional reason
 * **\>mute \<members\> [reason]**
-  > Mutes the specified members by assigning the the *Mute Role* that has been set with the *>set muterole <role>* command, optional reason
+  > Mutes the specified members by assigning the the *Mute Role* that has been set with the *\>set muterole \<role\>* command, optional reason
 * **\>unmute \<members\> [reason]**
-  > Unutes the specified members by unassigning the the *Mute Role* that has been set with the *>set muterole <role>* command, optional reason
+  > Unutes the specified members by unassigning the the *Mute Role* that has been set with the *\>set muterole \<role\>* command, optional reason
 * **\>prune \<number\>**
   > Bulk deletes a number of messages (max. 100). Aliases: *purge*, *clear*
 * **\>warn \<member\> [reason]**
