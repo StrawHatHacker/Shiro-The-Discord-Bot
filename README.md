@@ -110,6 +110,35 @@
 * **\>rule34 \<tag\>, yandere \<tag\>, danbooru \<tag\>, gelbooru \<tag\>, xbooru \<tag\>, realbooru \<tag\>, plot**
   > Fetches a random (nsfw) picture, provide only one tag for more accurate results. Aliases: *34*, *yan*, *dan*, *gel*, *xb*, *rb*
 ## Server Configuring/Settings
+##### Toggle (on/off)
+* **\>toggle modlog**
+  > Enables or disables moderation logging
+* **\>toggle chatlog**
+  > Enables or disables chat logging
+* **\>toggle changelog**
+  > Enables or disables guild/member change logging
+* **\>toggle filter**
+  > Enables or disables chat filtering
+* **\>toggle welcomemessages**
+  > Enables or disables welcome messages, when a new member joins the server
+* **\>toggle leavemessages**
+  > Enables or disables leaves messages, when a member leaves the server
+* **\>toggle invitelinks**
+  > Enables or disables discord invite link deletion
+* **\>toggle links**
+  > Enables or disables link deletion (any link)
+* **\>toggle autorole**
+  > Enables or disables the automatic role assignment when a new member joins
+##### Add or Remove
+* **\>**
+  > Enables or disables
+  
+  
+  
+  
+  
+  
+  
 * **\>setmodlog \<channel name or id\>**
   > Sets the channel in which the bot will log: Bans, Unbans, Kicks, Mutes, Unmutes, Warns, Filtered Words Warns, Filtered server invites and links. Aliases: *smod*
 * **\>disablemodlog**
