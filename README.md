@@ -104,7 +104,7 @@
   > Returns a random fancy insult. Try not to offend anyone
 * **\>size [member]**
   > Returns the size of your pickle ( ͡° ͜ʖ ͡°) 100% accuracy. Aliases: *pickle*
-* **\>color <type> <specify color or random>**
+* **\>color \<type\> \<specify color or random\>**
   > Returns information about a specified or random color. Type can be either *rgb* or *hex*. In case of rgb you have to specify 3 values between 0-255. In case of hex you have to specify a hex value
 ##### Nsfw
 * **\>rule34 \<tag\>, yandere \<tag\>, danbooru \<tag\>, gelbooru \<tag\>, xbooru \<tag\>, realbooru \<tag\>, plot**
