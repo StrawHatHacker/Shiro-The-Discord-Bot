@@ -5,11 +5,11 @@
 ![license](https://img.shields.io/badge/License-Mozilla%20Public%20License%202.0-green.svg)
 
 ***
-**►** [**Invite Link**](https://goo.gl/KbFYzT)
+**►** [**Invite Link**](https://discordapp.com/api/oauth2/authorize?client_id=444198945183367189&permissions=0&scope=bot)
 
 **►** [**Support Server**](https://discord.gg/ypEBGHB)
 
-<details><summary>Email</summary>
+<details>To be a supporter send us an email here<summary>email</summary>
 <p>
   shirothediscordbot@gmail.com
 </p>
@@ -19,16 +19,20 @@
 ## Documentation
 ### Commands
 ##### Moderation
-* **\>ban \<member\> [reason]**
-  > Bans the specified member for an optional reason
-* **\>kick \<member\> [reason]**
-  > Kicks the specified member for an optional reason
-* **\>mute \<member\> [time] [reason]**
-  > Mutes the specified member by creating (if it doesnt exist) and assigning the *@Muted* role, optional time in minutes, optional reason
+* **\>ban \<members\> [reason]**
+  > Bans the specified members for an optional reason
+* **\>kick \<members\> [reason]**
+  > Kicks the specified members for an optional reason
+* **\>mute \<members\> [reason]**
+  > Mutes the specified members by assigning the the *Mute Role* role that has been with the *>set muterole <role>* command, optional reason
+* **\>unmute \<members\> [reason]**
+  > Unutes the specified members by unassigning the the *Mute Role* role that has been with the *>set muterole <role>* command, optional reason
 * **\>prune \<number\>**
   > Bulk deletes a number of messages (max. 100). Aliases: *purge*, *clear*
 * **\>warn \<member\> [reason]**
   > Warns the mentioned member [reason optional]
+* **\>add \<role\> \<target\>**
+  > Adds a role to the specified target. Role can be given by id, name, or tag. Target can be a member id, member name, member mention, all, humans, bots.
 * **\>report \<members\> [reason]**
    > Reports the mentioned members to the server owner [reason optional]
    
