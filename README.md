@@ -32,7 +32,9 @@
 * **\>warn \<member\> [reason]**
   > Warns the mentioned member [reason optional]
 * **\>add \<role\> \<target\>**
-  > Adds a role to the specified target. Role can be given by id, name, or tag. Target can be a member id, member name, member mention, all, humans, bots.
+  > Adds a role to the specified target. Role can be given by id, name, or tag. Target can be a member id, member name, member mention, all, humans, bots
+* **\>add \<role\> \<target\>**
+  > Removes a role from the specified target. Details same as above
 * **\>report \<members\> [reason]**
    > Reports the mentioned members to the server owner [reason optional]
    
