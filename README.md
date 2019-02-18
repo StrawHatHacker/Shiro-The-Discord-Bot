@@ -146,78 +146,31 @@
 * **\>set welcomechannel \<channel\>**
   > Sets the channel in which the bot will welcome new members
 * **\>set welcomemessage \<message\>**
-  > Sets the welcome message. 
+  > Sets the welcome message
   > 
   > You can add (*--mention, --username, --id, --created*) in the message. When the the message will get sent they will be replaced by the new member's *tag*, *username* + *discriminator*, *id*, and *date* that their account was created
   > 
   > eg. *>set welcomemessage Welcome --mention to the server (--id)*
-* **\>set**
-  > Sets
-  
-  
-  
-  
-  
-  
-  
-* **\>setmodlog \<channel name or id\>**
-  > Sets the channel in which the bot will log: Bans, Unbans, Kicks, Mutes, Unmutes, Warns, Filtered Words Warns, Filtered server invites and links. Aliases: *smod*
-* **\>disablemodlog**
-  > Completely disable the moderation logging, channel has to be reassigned to enable it back (*>setmodlog \<channel id\>*)
-  Aliases: *dmod*
-* **\>setchatlog \<channel name or id\>**
-  > Set the channel in which the bot will log: Deleted, Edited Messages and Bulk Deletions. Aliases: *schat*
-* **\>disablechatlog**
-  > Completely disable the chat logging, channel has to be reassigned to enable it back (*>setchatlog \<channel id\>*)
-  Aliases: *dchat*
-* **\>setchangelog \<channel name or id\>**
-  > Set the channel in which the bot will log: Name, Nickname, Channel, Emoji, Role changes. Aliases: *schange*
-* **\>disablechangelog**
-  > Completely disable the change logging, channel has to be reassigned to enable it back (*>setchangelog \<channel id\>*)
-  Aliases: *dchange*
-***
-* **\>filter**
-  > Toggle chat filtering on or off
-* **\>filteradd \<word\>**
-  > Add a word to the bad word list (max 10 words, for supporters the limit is 20 words). Aliases: *fa*
-* **\>filterremove \<word\>**
-  > Remove a word from the bad word list. Aliases: *fr*
-* **\>filterlist**
-  > See all the bad words set to be filtered. Aliases: *fl*
-***
-* **\>blockinvites**
-  > Toggle server invite deletion on or off. Aliases: *bi*
-* **\>blocklinks**
-  > Toggle link deletion on or off. Aliases: *bl*
-* **\>mentionlimit \<number\>**
-  > Set the max mentions a message is allowed to have (*\>mentionlimit 0* to disable). Aliases: *ml*
-***
-* **\>joinmessage**
-  > Toggle welcome messages on or off. Aliases: *jm*
-* **\>setjoinchannel \<channel name or id\>**
-  > Set the channel in which the bot will welcome new members. Aliases: *sjc*
-* **\>setjoinmessage \<text\>**
-  > Set the message that will displayed when a member joins the server. Aliases: *sjm*
+* **\>set leavechannel \<channel\>**
+  > Sets the channel in which the bot will say goodbye to member that leave
+* **\>set leavemessage \<message\>**
+  > Sets the leave message
   > 
-  > You can add (*--mention, --username, --id, --created*) in the message. When the the message will get sent they will be replaced by the new member's *tag*, *username* + *discriminator*, *id*, and *date* that their account was created
+  > You can add (*--username, --id, --created*) in the message. When the the message will get sent they will be replaced by the user's *username* + *discriminator*, *id*, and *date* that their account was created
   > 
-  > eg. *>setjoinmessage Welcome --mention to the server (--id)*
-* **\>leavemessage**
-  > Toggle leave messages on or off. Aliases: *lm*
-* **\>setleavechannel \channel name or id\>**
-  > Set the channel in which the bot will send a message when a member leaves. Aliases: *slc*
-* **\>setleavemessage \<text\>**
-  > Set the message that will displayed when a member leaves the server. Aliases: *slm*
-  > 
-  > You can add (*--username, --id, --created*) in the message. When the the message will get sent they will be replaced by the member's *username* + *discriminator*, *id*, and *date* that their account was created
-  > 
-  > eg. *>setleavemessage Sad to see you go --username*
-***
-* **\>autorole**
-  > Toggle autorole function on or off. Autorole is the role that a members receives when they join the server
-* **\>autoroleadd \<role name or id\>**
-  > Add a role to the autorole list (max 1 roles, for supporters the limit is 10 roles). Aliases: *ara*
-* **\>autoroleremove \<role name or id\>**
-  > Remove a role from the autorole list. Aliases: *arr*
-* **\>autorolelist**
-  > See all the roles that are set to be given when a new members join. This command will also clear the autorole list from roles that have been deleted (this will be improved in the future). Aliases: *arl*
+  > eg. *>set leavemessage Sayonara --username (--id)*
+* **\>set prefix \<prefix\>**
+  > Sets the server's prefix. It can only be 1 character long
+* **\>set mentions \<number\>**
+  > Sets the mention limit that a message can have. Set to 0 to disable. Can only be higher than 2.
+* **\>set muterole \<role\>**
+  > Sets the role which will be assigned when a member gets muted with the *\>mute* command
+##### List or Show
+* **\>list filteredwords**
+  > Lists all filtered words
+* **\>list linkchannels**
+  > Lists all channels in which link deletion is disabled
+* **\>list \<\>**
+  > List autoroles
+* **\>list \<\>**
+  > Lists all auto the roles that will be autoassigned when a new member joins
