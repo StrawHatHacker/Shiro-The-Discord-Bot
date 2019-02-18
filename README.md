@@ -130,8 +130,29 @@
 * **\>toggle autorole**
   > Enables or disables the automatic role assignment when a new member joins
 ##### Add or Remove
-* **\>**
-  > Enables or disables
+* **\>add/remove filter \<word\>**
+  > Adds or removes a word from the filtered words list
+* **\>add/remove linkchannel \<channel\>**
+  > Adds or removes a channel from the list of ignored channels for link deletion
+* **\>add/remove autorole \<role\>**
+  > Adds or removes a role from the auto role list
+##### Set
+* **\>set modlog \<channel\>**
+  > Sets the channel for moderation logging
+* **\>set chatlog \<channel\>**
+  > Sets the channel for chat logging
+* **\>set changelog \<channel\>**
+  > Sets the channel for member/guild change logging
+* **\>set welcomechannel \<channel\>**
+  > Sets the channel in which the bot will welcome new members
+* **\>set welcomemessage \<message\>**
+  > Sets the welcome message. 
+  > 
+  > You can add (*--mention, --username, --id, --created*) in the message. When the the message will get sent they will be replaced by the new member's *tag*, *username* + *discriminator*, *id*, and *date* that their account was created
+  > 
+  > eg. *>set welcomemessage Welcome --mention to the server (--id)*
+* **\>set**
+  > Sets
   
   
   
