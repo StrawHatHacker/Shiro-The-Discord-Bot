@@ -132,10 +132,12 @@
 ##### Add or Remove
 * **\>add/remove filter \<word\>**
   > Adds or removes a word from the filtered words list
+  > *Limited at 10 words, 20 words for supporters*
 * **\>add/remove linkchannel \<channel\>**
   > Adds or removes a channel from the list of ignored channels for link deletion
 * **\>add/remove autorole \<role\>**
   > Adds or removes a role from the auto role list
+  > *Limited at 1 role, 10 roles for supporters*
 ##### Set
 * **\>set modlog \<channel\>**
   > Sets the channel for moderation logging
