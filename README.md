@@ -171,6 +171,4 @@
 * **\>list linkchannels**
   > Lists all channels in which link deletion is disabled
 * **\>list \<\>**
-  > List autoroles
-* **\>list \<\>**
   > Lists all auto the roles that will be autoassigned when a new member joins
