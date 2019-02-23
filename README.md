@@ -174,5 +174,5 @@
   > Lists all filtered words
 * **\>list linkchannels**
   > Lists all channels in which link deletion is disabled
-* **\>list \<\>**
+* **\>list \<autoroles\>**
   > Lists all auto the roles that will be autoassigned when a new member joins
