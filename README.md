@@ -131,20 +131,26 @@
   > Enables or disables the automatic role assignment when a new member joins
 ##### Add or Remove
 * **\>add/remove filter \<word\>**
-  > Adds or removes a word from the filtered words list
+  > Adds or removes a word from the filtered words list. Members who type that word will get their message deleted
+  > Dms member
   > 
   > *Limited at 10 words, 20 words for supporters*
 * **\>add/remove linkchannel \<channel\>**
-  > Adds or removes a channel from the list of ignored channels for link deletion
+  > Adds or removes a channel from the list of ignored channels. Channels added to the list will get ignored when links are posted
 * **\>add/remove autorole \<role\>**
-  > Adds or removes a role from the auto role list
+  > Adds or removes a role from the auto role list. When a user join the will get assigned all of the specified roles
   > 
   > *Limited at 1 role, 10 roles for supporters*
+* **\>add/remove blacklist \<id\>**
+  > Adds or removes an id from the blacklisted ids. If a blacklisted user joins the guild they get banned instantly
+  > Logs to modlog and dms the banned user
+  >
+  > *Limited at 10 ids, 50 ids for supporters*
 ##### Set
 * **\>set modlog \<channel\>**
   > Sets the channel for moderation logging
 * **\>set chatlog \<channel\>**
-  > Sets the channel for chat logging
+  > Sets the channel for chat logging. Logs edited/deleted messages, bulk deletions
 * **\>set changelog \<channel\>**
   > Sets the channel for member/guild change logging
 * **\>set welcomechannel \<channel\>**
@@ -156,7 +162,7 @@
   > 
   > eg. *>set welcomemessage Welcome --mention to the server (--id)*
 * **\>set leavechannel \<channel\>**
-  > Sets the channel in which the bot will say goodbye to member that leave
+  > Sets the channel in which the bot will say goodbye to members that left the guild
 * **\>set leavemessage \<message\>**
   > Sets the leave message
   > 
@@ -176,3 +182,5 @@
   > Lists all channels in which link deletion is disabled
 * **\>list \<autoroles\>**
   > Lists all auto the roles that will be autoassigned when a new member joins
+* **\>list \<blacklist\>**
+  > Lists all the blacklisted ids, *\>add blacklist \<id\>* to add the list
