@@ -182,6 +182,10 @@
   > Lists all channels in which link deletion is disabled
 * **\>list \<autoroles\>**
   > Lists all auto the roles that will be autoassigned when a new member joins
+* **\>list \<welcomemessage\>**
+  > Shows the welcome message with you as the new member
+* **\>list \<leavemessage\>**
+  > Shows the leave message with you as the left member
 * **\>list \<blacklist\>**
   > Lists all the blacklisted ids, *\>add blacklist \<id\>* to add the list
 
