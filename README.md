@@ -184,4 +184,5 @@
   > Lists all auto the roles that will be autoassigned when a new member joins
 * **\>list \<blacklist\>**
   > Lists all the blacklisted ids, *\>add blacklist \<id\>* to add the list
+
 Note: *When calling a list/show command, roles and channels that have been deleted from the guild but they still exist in the database will get removed*
