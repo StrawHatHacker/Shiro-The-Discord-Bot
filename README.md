@@ -30,13 +30,13 @@
 * **\>prune \<number\>**
   > Bulk deletes a number of messages (max. 100). Aliases: *purge*, *clear*
 * **\>warn \<member\> [reason]**
-  > Warns the mentioned member [reason optional]
+  > Warns the mentioned member for an optional reason
 * **\>addrole \<role\> \<target\>**
   > Adds a role to the specified target. Role can be given by id, name, or tag. Target can be a member id, member name, member mention, all, humans, bots
 * **\>removerole \<role\> \<target\>**
   > Removes a role from the specified target. Details same as above
 * **\>report \<members\> [reason]**
-   > Reports the mentioned members to the server owner [reason optional]
+   > Reports the mentioned members to the server owner for an optional reason
    
    > *For supporters only*
 ##### Information
@@ -45,13 +45,13 @@
 * **\>setup**
   > Shows all server configuring commands
 * **\>settings**
-  > Shows an overview of the server's enabled or disabled settings. *note: certain functions are toggled off by default*
+  > Shows an overview of the server's enabled or disabled settings. note: certain functions are toggled off by default and you have to toggle the on using the *>toggle* command
 * **\>serverinfo**
   > Returns information related to the server: Icon, Onwer, Region, Member Count, Emoji Count, Text, Voice Channels and Roles
 * **\>userinfo [member]**
   > Returns information related to a user: Icon, Full Name, ID, Status, Presence, Join Date, Account Creation Date and Roles
 * **\>botstatus**
-  > Returns information related to the bot: Icon, Language, Ping, Api Ping Time, Bot Uptime, System Uptime, System Info and useful links
+  > Returns information related to the bot: Icon, Language, Ping, Api Ping Time, Bot Uptime, System Uptime, Guilds/Users, System Info and useful links
 * **\>changelog**
   > Returns information about the bot version
 * **\>invite**
@@ -62,15 +62,17 @@
 * **\>say \<text\>**
   > Deletes the original message and then returns its contents
 * **\>embed [text]**
-  > Embeds the text into a cute embed
+  > Deletes the original message and embeds the text into a cute embed
 * **\>dice**
   > Rolls the dice, pretty straightforward
 * **\>8ball \<text\>**
   > Emulates the 8ball game
 * **\>team \<text\> \<text\> \<text\>....**
   > Returns an embed seperating the arguments randomly into 2 teams
-* **\>ship \<args1\> | \<args2\>**
+* **\>ship \<args1\> | [args2]**
   > Returns how compatible 2 people are with each other (99% of ships have sailed)
+* **\>fight \<args1\> | [args2]**
+  > Fight with people and see who is the strongest
 * **\>rps \<rock or paper or scissors\>**
   > Emulates a rock, paper, scissors game with the bot
 ##### Fun
@@ -110,6 +112,7 @@
 * **\>rule34 \<tag\>, yandere \<tag\>, danbooru \<tag\>, gelbooru \<tag\>, xbooru \<tag\>, realbooru \<tag\>, plot**
   > Fetches a random (nsfw) picture, provide only one tag for more accurate results. Aliases: *34*, *yan*, *dan*, *gel*, *xb*, *rb*
 ## Server Configuring/Settings
+> Toggle, add/remove, set require *Administrator* permissions 
 ##### Toggle (on/off)
 * **\>toggle modlog**
   > Enables or disables moderation logging
