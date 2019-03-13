@@ -112,7 +112,7 @@
 * **\>rule34 \<tag\>, yandere \<tag\>, danbooru \<tag\>, gelbooru \<tag\>, xbooru \<tag\>, realbooru \<tag\>, plot**
   > Fetches a random (nsfw) picture, provide only one tag for more accurate results. Aliases: *34*, *yan*, *dan*, *gel*, *xb*, *rb*
 ## Server Configuring/Settings
-> Toggle, add/remove, set require *Administrator* permissions 
+> **Toggle, add/remove, set require *Administrator* permissions**
 ##### Toggle (on/off)
 * **\>toggle modlog**
   > Enables or disables moderation logging
