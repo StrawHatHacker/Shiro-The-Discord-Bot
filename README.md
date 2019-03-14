@@ -9,7 +9,7 @@
 
 **►** [**Support Server**](https://discord.gg/ypEBGHB)
 
-To be a supporter send us an email here: shirothediscordbot@gmail.com
+To become a supporter send us an email here: shirothediscordbot@gmail.com
 
 ***
 ## Documentation
