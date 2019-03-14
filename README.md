@@ -57,7 +57,7 @@
 * **\>invite**
   > Returns the bot's invite link
 ##### Reactions (400+ unique gifs)
-* **\> kiss, hug, cuddle pat, lick, tickle, bite, poke, pinch, slap, blush, mad, scared, tired, sleep, yawn, cry, run, nervous, pout**
+* **\>kiss [members], hug, cuddle pat, lick, tickle, bite, poke, pinch, slap, blush, mad, scared, tired, sleep, yawn, cry, run, nervous, pout**
 ##### Games
 * **\>say \<text\>**
   > Deletes the original message and then returns its contents
