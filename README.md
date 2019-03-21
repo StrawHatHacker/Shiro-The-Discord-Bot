@@ -1,9 +1,3 @@
-![Shiro](https://i.imgur.com/OQPTNgN.png)
-![Info](https://img.shields.io/badge/Lib-Discord.js-blue.svg)
-![Info2](https://img.shields.io/badge/DB-MongoDB-blue.svg)
-![Guilds](https://img.shields.io/badge/Guilds-12-green.svg)
-![license](https://img.shields.io/badge/License-Mozilla%20Public%20License%202.0-green.svg)
-
 ***
 **►** [**Invite Link**](https://discordapp.com/api/oauth2/authorize?client_id=444198945183367189&permissions=0&scope=bot)
 
