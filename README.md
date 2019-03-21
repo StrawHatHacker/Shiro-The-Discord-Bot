@@ -1,4 +1,5 @@
-***
+![Shiro](https://i.imgur.com/OQPTNgN.png)
+
 **►** [**Invite Link**](https://discordapp.com/api/oauth2/authorize?client_id=444198945183367189&permissions=0&scope=bot)
 
 **►** [**Support Server**](https://discord.gg/ypEBGHB)
