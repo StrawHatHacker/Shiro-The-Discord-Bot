@@ -182,5 +182,7 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
   > Shows the leave message with you as the left member
 * **\>list \<blacklist\>**
   > Lists all the blacklisted ids, *\>add blacklist \<id\>* to add the list
+* **\>list \<warnlog\> \<user\>**
+  > Lists the last 10 warnings of the specified user
 
 Note: *When calling a list/show command, roles and channels that have been deleted from the guild but they still exist in the database will get removed*
