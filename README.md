@@ -14,8 +14,8 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
   > Bans the specified members for an optional reason
 * **\>kick \<members\> [reason]**
   > Kicks the specified members for an optional reason
-* **\>mute \<members\> [reason]**
-  > Mutes the specified members by assigning the the *Mute Role* that has been set with the *\>set muterole \<role\>* command, optional reason
+* **\>mute \<time\> \<members\> [reason]**
+  > Mutes the specified members by assigning the the *Mute Role* that has been set with the *\>set muterole \<role\>* command, optional reason. Time format: 0h or 0m. Eg: *>mute 2h @Sophie smells bad*
 * **\>unmute \<members\> [reason]**
   > Unmutes the specified members by unassigning the the *Mute Role* that has been set with the *\>set muterole \<role\>* command, optional reason
 * **\>prune \<number\>**
