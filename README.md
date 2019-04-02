@@ -23,7 +23,7 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
 * **\>warn \<member\> [reason]**
   > Warns the mentioned member for an optional reason
 * **\>addrole \<role\> \<target\>**
-  > Adds a role to the specified target. Role can be given by id, name, or tag. Target can be a member id, member name, member mention, all, humans, bots
+  > Adds a role to the specified target(member or role). Role can be given by id, name, or role mention. Target can be a member id, member name, member mention, all, humans, bots, a role, role name or role id.
 * **\>removerole \<role\> \<target\>**
   > Removes a role from the specified target. Details same as above
 * **\>report \<members\> [reason]**
@@ -40,7 +40,7 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
 * **\>serverinfo**
   > Returns information related to the server: Icon, Onwer, Region, Member Count, Emoji Count, Text, Voice Channels and Roles
 * **\>userinfo [member]**
-  > Returns information related to a user: Icon, Full Name, ID, Status, Presence, Join Date, Account Creation Date and Roles
+  > Returns information related to a user: Icon, Full Name, ID, Status, Presence, Highest Role, Join Date, Account Creation Date, Roles or Key Permissions
 * **\>botstatus**
   > Returns information related to the bot: Icon, Language, Ping, Api Ping Time, Bot Uptime, System Uptime, Guilds/Users, System Info and useful links
 * **\>changelog**
