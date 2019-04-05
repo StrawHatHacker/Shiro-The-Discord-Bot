@@ -68,10 +68,7 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
   > Emulates a rock, paper, scissors game with the bot
 ##### Fun
 * **\>movie \<movie name\>**
-  > Returns information about a movie taken from the OMDB Api. Returned Info: Title, Release date, Runtime, Genre, Director, Writer, Plot/Summary, Imdb rating
-* **\>urban \<word or phrase\>**
-  > Returns information about a word or phrase taken from Urban Dictionary. Returned Info: Definition, Author, Upvotes & Downvotes and an example. Aliases: *ud*
-* **\>weather \<city or area\>**
+  > Returns information about a movie taken from the OMDB Api. Returned Info: Title, Release date, Runtime, Genre, Director, Writer, Plot/Summary, Imdb rating* **\>weather \<city or area\>**
   > Returns weather information for the specified city or area. Returned Info: What the weather looks like, Date, Timezone, Temperature, Humidity, Wind and obervation point
 * **\>fortnite \<platform\> [username]**
   > Returns fortnite stats for the specified user on the specified platform(*pc*, *xbox*, *ps4*)\nReturned Info: Solo/Duo/Squad Wins, Kd, Matches Played, Kills
@@ -99,9 +96,6 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
   > Returns the size of your pickle ( ͡° ͜ʖ ͡°) 100% accuracy. Aliases: *pickle*
 * **\>color \<type\> \<specify color or random\>**
   > Returns information about a specified or random color. Type can be either *rgb* or *hex*. In case of rgb you have to specify 3 values between 0-255. In case of hex you have to specify a hex value
-##### Nsfw
-* **\>rule34 \<tag\>, yandere \<tag\>, danbooru \<tag\>, gelbooru \<tag\>, xbooru \<tag\>, realbooru \<tag\>, plot**
-  > Fetches a random (nsfw) picture, provide only one tag for more accurate results. Aliases: *34*, *yan*, *dan*, *gel*, *xb*, *rb*
 ## Server Configuring/Settings
 > **Toggle, add/remove, set require *Administrator* permissions**
 ##### Toggle (on/off)
