@@ -68,7 +68,10 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
   > Emulates a rock, paper, scissors game with the bot
 ##### Fun
 * **\>movie \<movie name\>**
-  > Returns information about a movie taken from the OMDB Api. Returned Info: Title, Release date, Runtime, Genre, Director, Writer, Plot/Summary, Imdb rating* **\>weather \<city or area\>**
+  > Returns information about a movie taken from the OMDB Api. Returned Info: Title, Release date, Runtime, Genre, Director, Writer, Plot/Summary, Imdb rating*
+* **\>urban \<word or phrase\>** 
+  > Returns information about a word or phrase taken from Urban Dictionary\nReturned Info: Definition, Author, Upvotes & Downvotes and an example 
+* **\>weather \<city or area\>**
   > Returns weather information for the specified city or area. Returned Info: What the weather looks like, Date, Timezone, Temperature, Humidity, Wind and obervation point
 * **\>fortnite \<platform\> [username]**
   > Returns fortnite stats for the specified user on the specified platform(*pc*, *xbox*, *ps4*)\nReturned Info: Solo/Duo/Squad Wins, Kd, Matches Played, Kills
