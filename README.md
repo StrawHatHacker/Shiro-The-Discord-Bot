@@ -20,8 +20,8 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
   > Unmutes the specified members by unassigning the the *Mute Role* that has been set with the *\>set muterole \<role\>* command, optional reason
 * **\>prune \<number\>**
   > Bulk deletes a number of messages (max. 100). Aliases: *purge*, *clear*
-* **\>warn \<member\> [reason]**
-  > Warns the mentioned member for an optional reason
+* **\>warn \<members\> [reason]**
+  > Warns the mentioned members for an optional reason
 * **\>addrole \<role\> \<target\>**
   > Adds a role to the specified target(member or role). Role can be given by id, name, or role mention. Target can be a member id, member name, member mention, all, humans, bots, a role, role name or role id.
 * **\>removerole \<role\> \<target\>**
@@ -36,7 +36,7 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
 * **\>setup**
   > Shows all server configuring commands
 * **\>settings**
-  > Shows an overview of the server's enabled or disabled settings. note: certain functions are toggled off by default and you have to toggle the on using the *>toggle* command
+  > Shows an overview of the server's enabled or disabled settings. note: certain functions are toggled off by default and you have to toggle them on using the *>toggle* command
 * **\>serverinfo**
   > Returns information related to the server: Icon, Onwer, Region, Member Count, Emoji Count, Text, Voice Channels and Roles
 * **\>userinfo [member]**
