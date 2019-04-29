@@ -33,8 +33,7 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
 ##### Information
 * **\>help [command]**
   > Shows all commands or help about a specific command 
-* **\>setup**
-  > Shows all server configuring commands
+  > *\>help settings* will display all server configuring commands
 * **\>settings**
   > Shows an overview of the server's enabled or disabled settings. note: certain functions are toggled off by default and you have to toggle them on using the *>toggle* command
 * **\>serverinfo**
@@ -42,9 +41,7 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
 * **\>userinfo [member]**
   > Returns information related to a user: Icon, Full Name, ID, Status, Presence, Highest Role, Join Date, Account Creation Date, Roles or Key Permissions
 * **\>botstatus**
-  > Returns information related to the bot: Icon, Language, Ping, Api Ping Time, Bot Uptime, System Uptime, Guilds/Users, System Info and useful links
-* **\>changelog**
-  > Returns information about the bot version
+  > Returns information related to the bot: Icon, Language, Ping, Api Ping Time, Bot Uptime, System Uptime, Guilds/Users, System Info and useful links (Alias: *\>ping*)
 * **\>invite**
   > Returns the bot's invite link
 ##### Reactions (400+ unique gifs)
@@ -81,14 +78,10 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
   > Returns information from iTunes about a product. Types are: *music*, *movie*, *podcast*, *audiobook*, *ebook*, *software*, *all*. Term *all* will return 10 results with that correspond to the *name* regardless of their category
   
   > *For supporters only*
-* **\> dog, shibe, cat, bird, fox, lizard**
+* **\> dog, shibe, cat, bird, fox**
   > Fetches animals pictures
-* **\> chuckjoke, punchjoke, dadjoke**
-  > Returns jokes, easy right?
 * **\>comic**
   > Fetches a random comic
-* **\>fakeid**
-  > Returns an embed containing fake user infomation (*Name*, *Gender*, *Age*, *Region*, *Phone number*, *Email*, *Password*)
 * **\>advice**
   > Returns random advice
 * **\> dogfact, catfact**
@@ -161,22 +154,22 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
   > 
   > eg. *>set leavemessage Sayonara --username (--id)*
 * **\>set prefix \<prefix\>**
-  > Sets the server's prefix. It can only be 1 character long
+  > Sets the server's prefix
 * **\>set mentions \<number\>**
   > Sets the mention limit that a message can have. Set to 0 to disable. Can only be higher than 2.
 * **\>set muterole \<role\>**
   > Sets the role which will be assigned when a member gets muted with the *\>mute* command
 ##### List or Show
-* **\>list filteredwords**
+* **\>list filter**
   > Lists all filtered words
-* **\>list linkchannels**
-  > Lists all channels in which link deletion is disabled
-* **\>list \<autoroles\>**
-  > Lists all auto the roles that will be autoassigned when a new member joins
 * **\>list \<welcomemessage\>**
   > Shows the welcome message with you as the new member
 * **\>list \<leavemessage\>**
   > Shows the leave message with you as the left member
+* **\>list linkchannels**
+  > Lists all channels in which link deletion is disabled
+* **\>list \<autoroles\>**
+  > Lists all auto the roles that will be autoassigned when a new member joins
 * **\>list \<blacklist\>**
   > Lists all the blacklisted ids, *\>add blacklist \<id\>* to add the list
 * **\>list \<warnlog\> \<user\>**
