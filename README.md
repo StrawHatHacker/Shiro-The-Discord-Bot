@@ -122,7 +122,7 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
 * **\>add/remove linkchannel \<channel\>**
   > Adds or removes a channel from the list of ignored channels. Channels added to the list will get ignored when links are posted
 * **\>add/remove autorole \<role\>**
-  > Adds or removes a role from the auto role list. When a user join the will get assigned all of the specified roles
+  > Adds or removes a role from the auto role list. When a user joins they will get assigned all of the specified roles
   > 
   > *Limited at 1 role, 10 roles for supporters*
 * **\>add/remove blacklist \<id\>**
