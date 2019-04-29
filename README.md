@@ -65,13 +65,13 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
   > Emulates a rock, paper, scissors game with the bot
 ##### Fun
 * **\>movie \<movie name\>**
-  > Returns information about a movie taken from the OMDB Api. Returned Info: Title, Release date, Runtime, Genre, Director, Writer, Plot/Summary, Imdb rating*
+  > Returns information about a movie taken from the OMDB Api
 * **\>urban \<word or phrase\>** 
-  > Returns information about a word or phrase taken from Urban Dictionary\nReturned Info: Definition, Author, Upvotes & Downvotes and an example 
+  > Returns information about a word or phrase taken from Urban Dictionary
 * **\>weather \<city or area\>**
-  > Returns weather information for the specified city or area. Returned Info: What the weather looks like, Date, Timezone, Temperature, Humidity, Wind and obervation point
+  > Returns weather information for the specified city or area
 * **\>fortnite \<platform\> [username]**
-  > Returns fortnite stats for the specified user on the specified platform(*pc*, *xbox*, *ps4*)\nReturned Info: Solo/Duo/Squad Wins, Kd, Matches Played, Kills
+  > Returns fortnite stats for the specified user on the specified platform(*pc*, *xbox*, *ps4*)
   
   > *For supporters only*
 * **\>itunes \<type\> \<item\>**
@@ -91,7 +91,7 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
 * **\>size [member]**
   > Returns the size of your pickle ( ͡° ͜ʖ ͡°) 100% accuracy. Aliases: *pickle*
 * **\>color \<type\> \<specify color or random\>**
-  > Returns information about a specified or random color. Type can be either *rgb* or *hex*. In case of rgb you have to specify 3 values between 0-255. In case of hex you have to specify a hex value
+  > Returns information about a specified or random color. Type can be either *rgb* or *hex* or *random*. In case of rgb you have to specify 3 values between 0-255 (eg *\>color rgb 100 100 150*). In case of hex you have to specify a hex value(eg *\>color hex ffffff*)
 ## Server Configuring/Settings
 > **Toggle, add/remove, set require *Administrator* permissions**
 ##### Toggle (on/off)
