@@ -10,17 +10,17 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
 ## Documentation
 ### Commands
 ##### Moderation
-* **\>ban \<members\> [reason]**
+* **\>ban \<mentions\> [reason]**
   > Bans the specified members for an optional reason
-* **\>kick \<members\> [reason]**
+* **\>kick \<mentions\> [reason]**
   > Kicks the specified members for an optional reason
-* **\>mute \<time\> \<members\> [reason]**
+* **\>mute \[time\] \<mentions\> [reason]**
   > Mutes the specified members by assigning the the *Mute Role* that has been set with the *\>set muterole \<role\>* command, optional reason. Time format: 0h or 0m. Eg: *>mute 2h @Sophie smells bad*
-* **\>unmute \<members\> [reason]**
+* **\>unmute \<mentions\> [reason]**
   > Unmutes the specified members by unassigning the the *Mute Role* that has been set with the *\>set muterole \<role\>* command, optional reason
 * **\>prune \<number\>**
   > Bulk deletes a number of messages (max. 100). Aliases: *purge*, *clear*
-* **\>warn \<members\> [reason]**
+* **\>warn \<mentions\> [reason]**
   > Warns the mentioned members for an optional reason
 * **\>addrole \<role\> \<target\>**
   > Adds a role to the specified target(member or role). Role can be given by id, name, or role mention. Target can be a member id, member name, member mention, all, humans, bots, a role, role name or role id.
@@ -36,7 +36,7 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
   > List a member's last 10 warnlog entries, eg. *\>warnlog @Sophie*
   
   > *Add*, *remove* and *edit*, are for supporting servers
-* **\>report \<members\> [reason]**
+* **\>report \<mentions\> [reason]**
    > Reports the mentioned members to the server owner for an optional reason
    
    > *For supporters only*
@@ -48,8 +48,8 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
   > Shows an overview of the server's enabled or disabled settings. note: certain functions are toggled off by default and you have to toggle them on using the *>toggle* command
 * **\>serverinfo**
   > Returns information related to the server: Icon, Onwer, Region, Member Count, Emoji Count, Text, Voice Channels and Roles
-* **\>userinfo [member]**
-  > Returns information related to a user: Icon, Full Name, ID, Status, Presence, Highest Role, Join Date, Account Creation Date, Roles or Key Permissions
+* **\>userinfo [mention or name]**
+  > Returns information related to a member in the server: Icon, Full Name, ID, Status, Presence, Highest Role, Join Date, Account Creation Date, Roles or Key Permissions
 * **\>botstatus**
   > Returns information related to the bot: Icon, Language, Ping, Api Ping Time, Bot Uptime, System Uptime, Guilds/Users, System Info and useful links (Alias: *\>ping*)
 * **\>invite \<`bot` or `server`\>**
@@ -94,13 +94,11 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
   > Fetches a random comic
 * **\>advice**
   > Returns random advice
-* **\> dogfact, catfact**
-  > Returns a random fact, that's all
 * **\>insult**
   > Returns a random fancy insult. Try not to offend anyone
 * **\>size [member]**
   > Returns the size of your pickle ( ͡° ͜ʖ ͡°) 100% accuracy. Aliases: *pickle*
-* **\>color \<type\> \<specify color or random\>**
+* **\>color \<type\> \<specify color properties\>**
   > Returns information about a specified or random color. Type can be either *rgb* or *hex* or *random*. In case of rgb you have to specify 3 values between 0-255 (eg *\>color rgb 100 100 150*). In case of hex you have to specify a hex value(eg *\>color hex ffffff*)
 ## Server Configuring/Settings
 > **Toggle, add/remove, set require *Administrator* permissions**
@@ -182,7 +180,5 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
   > Lists all auto the roles that will be autoassigned when a new member joins
 * **\>list \<blacklist\>**
   > Lists all the blacklisted ids, *\>add blacklist \<id\>* to add the list
-* **\>list \<warnlog\> \<user\>**
-  > Lists the last 10 warnings of the specified user
 
 Note: *When calling a list/show command, roles and channels that have been deleted from the guild but they still exist in the database will get removed*
