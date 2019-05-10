@@ -26,6 +26,16 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
   > Adds a role to the specified target(member or role). Role can be given by id, name, or role mention. Target can be a member id, member name, member mention, all, humans, bots, a role, role name or role id.
 * **\>removerole \<role\> \<target\>**
   > Removes a role from the specified target. Details same as above
+* **\>warnlog \<add, remove, edit or member\>**
+  > Add\* a warnlog entry for a member, eg. *\>warnlog add @Sophie \<reason\>*
+  
+  > Remove\* a warnlog entry of a member, eg. *\>warnlog remove @Sophie \<entry id\>*
+  
+  > Edit\* the reason of a warnlog entry of a member, rg. *\>warnlog edit @Sophie \<entry id\> \<reason\>*
+  
+  > List a member's last 10 warnlog entries, eg. *\>warnlog @Sophie*
+  
+  > *Add*, *remove* and *edit*, are for supporting servers
 * **\>report \<members\> [reason]**
    > Reports the mentioned members to the server owner for an optional reason
    
