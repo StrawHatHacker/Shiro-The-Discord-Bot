@@ -1,5 +1,11 @@
 ![Shiro](https://i.imgur.com/OQPTNgN.png)
 
+[![Discord Bots](https://discordbots.org/api/widget/status/444198945183367189.svg?noavatar=true)](https://discordbots.org/bot/444198945183367189)
+[![Discord Bots](https://discordbots.org/api/widget/servers/444198945183367189.svg?noavatar=true)](https://discordbots.org/bot/444198945183367189)
+[![Discord Bots](https://discordbots.org/api/widget/upvotes/444198945183367189.svg?noavatar=true)](https://discordbots.org/bot/444198945183367189)
+[![Discord Bots](https://discordbots.org/api/widget/owner/444198945183367189.svg?noavatar=true)](https://discordbots.org/bot/444198945183367189)
+
+
 **►** [**Invite Link**](https://discordapp.com/api/oauth2/authorize?client_id=444198945183367189&permissions=0&scope=bot)
 
 **►** [**Support Server**](https://discord.gg/ypEBGHB)
@@ -182,3 +188,5 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
   > Lists all the blacklisted ids, *\>add blacklist \<id\>* to add the list
 
 Note: *When calling a list/show command, roles and channels that have been deleted from the guild but they still exist in the database will get removed*
+
+[![Discord Bots](https://discordbots.org/api/widget/444198945183367189.svg)](https://discordbots.org/bot/444198945183367189)
