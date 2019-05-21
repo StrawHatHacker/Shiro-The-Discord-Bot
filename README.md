@@ -61,7 +61,7 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
 * **\>invite \<`bot` or `server`\>**
   > Returns the bot's invite link or generates a new server invite
 ##### Reactions (400+ unique gifs)
-* **\>kiss [members], hug, cuddle pat, lick, tickle, bite, poke, pinch, slap, blush, mad, scared, tired, sleep, yawn, cry, run, nervous, pout**
+* **\>kiss [members], hug, cuddle pat, lick, tickle, bite, poke, pinch, slap, blush, mad, scared, tired, sleep, yawn, cry, run, nervous, pout, wink, smug, stare, kill, wave, nom, sip**
 ##### Games
 * **\>say \<text\>**
   > Deletes the original message and then returns its contents
