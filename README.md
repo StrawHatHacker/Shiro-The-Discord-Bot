@@ -16,6 +16,8 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
 ## Documentation
 ### Commands
 ##### Moderation
+* **\>hackban \<user id\>**
+  > Bans the user with the specified id even if they are not in the server
 * **\>ban \<mentions\> [reason]**
   > Bans the specified members for an optional reason
 * **\>kick \<mentions\> [reason]**
