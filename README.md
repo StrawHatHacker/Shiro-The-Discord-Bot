@@ -7,11 +7,11 @@
 
 A multipurpose bot featuring 600+ reaction anime gifs, full moderation, fully customizable server automation, logging and many others features
 
-**►** [**Invite Link**](https://discordapp.com/api/oauth2/authorize?client_id=444198945183367189&permissions=0&scope=bot)
+**►** [**Invite Me**](https://discordapp.com/api/oauth2/authorize?client_id=444198945183367189&permissions=0&scope=bot)
 
 **►** [**Support Server**](https://discord.gg/ypEBGHB)
 
-To become a supporter send us an email here: shirothediscordbot@gmail.com
+To become a supporter send us an email here: ntahsp@gmail.com
 
 ***
 ## Documentation
