@@ -44,11 +44,11 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
   
   > List a member's last 10 warnlog entries, eg. *\>warnlog @Sophie*
   
-  > *Add*, *remove* and *edit*, are for supporting servers
+  > *Add*, *remove* and *edit*, are available only for supporting servers
 * **\>report \<mentions\> [reason]**
    > Reports the mentioned members to the server owner for an optional reason
    
-   > *For supporters only*
+   > *Report command is available only for supporting servers*
 ##### Information
 * **\>help [command]**
   > Shows all commands or help about a specific command 
@@ -92,11 +92,11 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
 * **\>fortnite \<platform\> [username]**
   > Returns fortnite stats for the specified user on the specified platform(*pc*, *xbox*, *ps4*)
   
-  > *For supporters only*
+  > *Fortnite is available only for supporting servers*
 * **\>itunes \<type\> \<item\>**
   > Returns information from iTunes about a product. Types are: *music*, *movie*, *podcast*, *audiobook*, *ebook*, *software*, *all*. Term *all* will return 10 results with that correspond to the *name* regardless of their category
   
-  > *For supporters only*
+  > *ITunes is available only for supporting servers*
 * **\> dog, shibe, cat, bird, fox**
   > Fetches animals pictures
 * **\>comic**
@@ -135,18 +135,18 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
   > Adds or removes a word from the filtered words list. Members who type that word will get their message deleted
   > Dms member
   > 
-  > *Limited at 10 words, 20 words for supporters*
+  > *Limited at 10 words, 20 words for supporting servers*
 * **\>add/remove linkchannel \<channel\>**
   > Adds or removes a channel from the list of ignored channels. Channels added to the list will get ignored when links are posted
 * **\>add/remove autorole \<role\>**
   > Adds or removes a role from the auto role list. When a user joins they will get assigned all of the specified roles
   > 
-  > *Limited at 1 role, 10 roles for supporters*
+  > *Limited at 1 role, 10 roles for supporting servers*
 * **\>add/remove blacklist \<id\>**
   > Adds or removes an id from the blacklisted ids. If a blacklisted user joins the guild they get banned instantly
   > Logs to modlog and dms the banned user
   >
-  > *Limited at 10 ids, 50 ids for supporters*
+  > *Limited at 10 ids, 50 ids for supporting servers*
 ##### Set
 * **\>set modlog \<channel\>**
   > Sets the channel for moderation logging
