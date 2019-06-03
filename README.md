@@ -63,7 +63,7 @@ To become a supporter send us an email here: shirothediscordbot@gmail.com
   > Returns information related to the bot: Icon, Language, Ping, Api Ping Time, Bot Uptime, System Uptime, Guilds/Users, System Info and useful links (Alias: *\>ping*)
 * **\>invite \<`bot` or `server`\>**
   > Returns the bot's invite link or generates a new server invite
-##### Reactions (400+ unique gifs)
+##### Reactions (600+ unique gifs)
 * **\>kiss [members], hug, cuddle pat, lick, tickle, bite, poke, pinch, slap, blush, mad, scared, tired, sleep, yawn, cry, run, nervous, pout, wink, smug, stare, kill, wave, nom, sip**
 ##### Games
 * **\>say \<text\>**
