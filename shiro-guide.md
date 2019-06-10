@@ -1,24 +1,24 @@
 ## Setting Up Chat Filtering
 
 __Curse Words__
-1. Enable the chat filtering function: >toggle filter
-2. Add a curse word: >add filter ass
-3. Remove a curse word: >remove filter ass
-4. List all curse words: >list filter
+1. Enable the chat filtering function: `>toggle filter`
+2. Add a curse word: `>add filter <word>`
+3. Remove a curse word: `>remove filter <word>`
+4. List all curse words: `>list filter`
 
 __Other__
-1. Enable invite link deletion: >toggle invitelinks
-2. Enable link deletion: >toggle links
-3. Add ignore channel: >add linkchannel <channel>
-4. Remove ignore channel: >remove linkchannel <channel>
-5. List ignored channels: >list linkchannels
-6. Set max mentions per message: >set mentions <number>
+1. Enable invite link deletion: `>toggle invitelinks`
+2. Enable link deletion: `>toggle links`
+3. Add ignore channel: `>add linkchannel <channel>`
+4. Remove ignore channel: `>remove linkchannel <channel>`
+5. List ignored channels: `>list linkchannels`
+6. Set max mentions per message: `>set mentions <number>`
 
 * Chat Filtering will ignore members that have a role with `Administrator` permissions.
 * You can add only one word/channel at a time.
 * Links will not be deleted in ignored channels.
-* For <channel> is recommended to pass a channel ID.
-* For <number> you have to pass a value higher than 2 (or 0 to disable mention limiting).
+* For ``<channel>` is recommended to pass a channel ID.
+* For `<number>` you have to pass a value higher than 2 (or 0 to disable mention limiting).
 
 Note: *There is a limit 10 filtered words per server, if you want to extend it read #pricing in [Support Server](https://discord.gg/ypEBGHB)*
 
