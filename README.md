@@ -110,6 +110,8 @@ To become a supporter send us an email here: ntahsp@gmail.com
 * **\>color \<type\> \<specify color properties\>**
   > Returns information about a specified or random color. Type can be either *rgb* or *hex* or *random*. In case of rgb you have to specify 3 values between 0-255 (eg *\>color rgb 100 100 150*). In case of hex you have to specify a hex value(eg *\>color hex ffffff*)
 ## Server Configuring/Settings
+> If you want help in how to setup certain funtions for your server read the [guide](https://github.com/StrawHatHacker/Shiro-The-Discord-Bot/blob/master/shiro-guide.md)
+
 > **Toggle, add/remove, set require *Administrator* permissions**
 ##### Toggle (on/off)
 * **\>toggle modlog**
