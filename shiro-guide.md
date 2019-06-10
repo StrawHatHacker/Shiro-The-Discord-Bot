@@ -20,7 +20,7 @@ __Other__
 * For <channel> is recommended to pass a channel ID.
 * For <number> you have to pass a value higher than 2 (or 0 to disable mention limiting).
 
-Note: *There is a limit 10 filtered words per server, if you want to extend it read #pricing*
+Note: *There is a limit 10 filtered words per server, if you want to extend it read #pricing in [Support Server](https://discord.gg/ypEBGHB)*
 
 ## Setting Up Moderation Logging
 
@@ -83,7 +83,7 @@ Note: *There is a limit 10 filtered words per server, if you want to extend it r
 * Give new members roles as they join.
 * For `<role>` is recommended to pass a role ID.
 
-Note: *There is a limit of 2 autoroles per server, if you want to extend it read #pricing*
+Note: *There is a limit of 2 autoroles per server, if you want to extend it read #pricing in [Support Server](https://discord.gg/ypEBGHB)*
 
 ## Setting Up Blacklist 
 
@@ -94,7 +94,7 @@ Note: *There is a limit of 2 autoroles per server, if you want to extend it read
 * Blacklist users so they can't join the server.
 * For `<id>` you have to pass a user's ID.
 
-Note: *There is a limit of 10 blacklisted users per server, if you want to extend it read #pricing*
+Note: *There is a limit of 10 blacklisted users per server, if you want to extend it read #pricing in [Support Server](https://discord.gg/ypEBGHB)*
 
 ## Updating Prefix
 
