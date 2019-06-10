@@ -18,7 +18,7 @@ __Other__
 * You can add only one word/channel at a time.
 * Links will not be deleted in ignored channels.
 * For ``<channel>` is recommended to pass a channel ID.
-* For `<number>` you have to pass a value higher than 2 (or 0 to disable mention limiting).
+* For `<number>` you have to pass a value higher than `2` (or `0` to disable mention limiting).
 
 Note: *There is a limit 10 filtered words per server, if you want to extend it read #pricing in [Support Server](https://discord.gg/ypEBGHB)*
 
