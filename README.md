@@ -132,6 +132,8 @@ To become a supporter send us an email here: ntahsp@gmail.com
   > Enables or disables link deletion (any link)
 * **\>toggle autorole**
   > Enables or disables the automatic role assignment when a new member joins
+* **\>toggle strictmode**
+  > Enables or disables strict mode for certain bot functions. For now only `filter` becomes stricter
 ##### Add or Remove
 * **\>add/remove filter \<word\>**
   > Adds or removes a word from the filtered words list. Members who type that word will get their message deleted
@@ -145,7 +147,7 @@ To become a supporter send us an email here: ntahsp@gmail.com
   > 
   > *Limited at 1 role, 10 roles for supporting servers*
 * **\>add/remove blacklist \<id\>**
-  > Adds or removes an id from the blacklisted ids. If a blacklisted user joins the guild they get banned instantly
+  > Adds or removes an id from the blacklisted user ids. If a blacklisted user joins the guild they get banned instantly
   > Logs to modlog and dms the banned user
   >
   > *Limited at 10 ids, 50 ids for supporting servers*
@@ -175,9 +177,9 @@ To become a supporter send us an email here: ntahsp@gmail.com
 * **\>set prefix \<prefix\>**
   > Sets the server's prefix
 * **\>set mentions \<number\>**
-  > Sets the mention limit that a message can have. Set to 0 to disable. Can only be higher than 2.
+  > Sets the mention limit that is allowed per message. Set to `0` to disable. Can only be higher than `2`.
 * **\>set muterole \<role\>**
-  > Sets the role which will be assigned when a member gets muted with the *\>mute* command
+  > Sets the role which will be assigned when a member gets muted. Eg. with the *\>mute* command
 ##### List or Show
 * **\>list filter**
   > Lists all filtered words
