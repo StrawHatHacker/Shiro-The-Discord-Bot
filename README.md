@@ -18,7 +18,7 @@ To become a supporter send us an email here: ntahsp@gmail.com
 ### Commands
 ##### Moderation
 * **\>hackban \<user ids\>**
-  > Bans the user with the specified id even if they are not in the server
+  > Bans users by id. Also works for users that are not in the server
 * **\>ban \<mentions\> [reason]**
   > Bans the specified members for an optional reason
 * **\>kick \<mentions\> [reason]**
