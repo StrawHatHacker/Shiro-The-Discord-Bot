@@ -77,7 +77,7 @@ To become a supporter send us an email here: ntahsp@gmail.com
 * **\>team \<text\> \<text\> \<text\>....**
   > Returns an embed seperating the arguments randomly into 2 teams
 * **\>ship \<args1\> | [args2]**
-  > Returns how compatible 2 people are with each other (99% of ships have sailed)
+  > Returns how compatible 2 people are with each other (99% of ships have sailed). Results change every month.
 * **\>fight \<args1\> | [args2]**
   > Fight with people and see who is the strongest
 * **\>rps \<rock or paper or scissors\>**
@@ -106,7 +106,7 @@ To become a supporter send us an email here: ntahsp@gmail.com
 * **\>insult**
   > Returns a random fancy insult. Try not to offend anyone
 * **\>size [member]**
-  > Returns the size of your pickle ( ͡° ͜ʖ ͡°) 100% accuracy. Aliases: *pickle*
+  > Returns the size of your pickle ( ͡° ͜ʖ ͡°) 100% accuracy. Results change every month. Aliases: *pickle*
 * **\>color \<type\> \<specify color properties\>**
   > Returns information about a specified or random color. Type can be either *rgb* or *hex* or *random*. In case of rgb you have to specify 3 values between 0-255 (eg *\>color rgb 100 100 150*). In case of hex you have to specify a hex value(eg *\>color hex ffffff*)
 ## Server Configuring/Settings
