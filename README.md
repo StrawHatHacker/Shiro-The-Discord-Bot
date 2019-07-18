@@ -118,8 +118,8 @@ To become a supporter send us an email here: ntahsp@gmail.com
   > Enables or disables moderation logging
 * **\>toggle chatlog**
   > Enables or disables chat logging
-* **\>toggle changelog**
-  > Enables or disables guild/member change logging
+* **\>toggle updatelog**
+  > Enables or disables member/server update logging
 * **\>toggle filter**
   > Enables or disables chat filtering
 * **\>toggle welcomemessages**
@@ -156,8 +156,8 @@ To become a supporter send us an email here: ntahsp@gmail.com
   > Sets the channel for moderation logging
 * **\>set chatlog \<channel\>**
   > Sets the channel for chat logging. Logs edited/deleted messages, bulk deletions
-* **\>set changelog \<channel\>**
-  > Sets the channel for member/guild change logging
+* **\>set updatelog \<channel\>**
+  > Sets the channel for member/server update logging
 * **\>set welcomechannel \<channel\>**
   > Sets the channel in which the bot will welcome new members
 * **\>set welcomemessage \<message\>**
