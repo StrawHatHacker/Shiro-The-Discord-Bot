@@ -40,12 +40,11 @@ Note: *There is a limit 10 filtered words per server, if you want to extend it r
 * For `<channel>` is recommended to pass a channel ID.
 * To disable do `>toggle chatlog` again.
 
-## Setting Up Change Logging
+## Setting Up Update Logging
 
-1. Enable change logging: `>toggle changelog`
-2. Specify the logging channel: `>set changelog <channel>`
+1. Enable member/server logging: `>toggle changelog`
+2. Specify the logging channel: `>set updatelog <channel>`
 
-* Change logging will log server and member updates to the specified channel.
 * For `<channel>` is recommended to pass a channel ID.
 * To disable do `>toggle changelog` again.
 
