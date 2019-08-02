@@ -34,7 +34,7 @@ To become a supporter send us an email here: ntahsp@gmail.com
   >
   > * `>prune`. Delete as many messages from Shiro as possible.
 
- Aliases: *purge*, *clear*
+    Aliases: *purge*, *clear*
 * **\>warn \<mentions\> [reason]**
   > Warns the mentioned members for an optional reason
 * **\>addrole \<role\> \<target\>**
