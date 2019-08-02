@@ -27,8 +27,14 @@ To become a supporter send us an email here: ntahsp@gmail.com
   > Mutes the specified members by assigning the the *Mute Role* that has been set with the *\>set muterole \<role\>* command, optional reason. Time format: 0h or 0m. Eg: *>mute 2h @Sophie smells bad*
 * **\>unmute \<mentions\> [reason]**
   > Unmutes the specified members by unassigning the the *Mute Role* that has been set with the *\>set muterole \<role\>* command, optional reason
-* **\>prune \<number\>**
-  > Bulk deletes a number of messages (max. 100). Aliases: *purge*, *clear*
+* **\>prune [member mention or number]**
+  > * `>prune <number>`. Deletes a number of messages.
+  >
+  > * `>prune <member mention>`. Deletes as many messages as possible sent by the mentioned member.
+  >
+  > * `>prune`. Delete as many messages from Shiro as possible.
+
+ Aliases: *purge*, *clear*
 * **\>warn \<mentions\> [reason]**
   > Warns the mentioned members for an optional reason
 * **\>addrole \<role\> \<target\>**
@@ -55,6 +61,8 @@ To become a supporter send us an email here: ntahsp@gmail.com
   > *\>help settings* will display all server configuring commands
 * **\>settings**
   > Shows an overview of the server's enabled or disabled settings. note: certain functions are toggled off by default and you have to toggle them on using the *>toggle* command
+* **\>guide**
+  > Get a list of all guides for Shiro
 * **\>serverinfo**
   > Returns information related to the server: Icon, Onwer, Region, Member Count, Emoji Count, Text, Voice Channels and Roles
 * **\>userinfo [mention or name]**
