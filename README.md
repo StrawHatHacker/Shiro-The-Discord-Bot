@@ -154,11 +154,6 @@ To become a supporter send us an email here: ntahsp@gmail.com
   > Adds or removes a role from the auto role list. When a user joins they will get assigned all of the specified roles
   > 
   > *Limited at 1 role, 10 roles for supporting servers*
-* **\>add/remove blacklist \<id\>**
-  > Adds or removes an id from the blacklisted user ids. If a blacklisted user joins the guild they get banned instantly
-  > Logs to modlog and dms the banned user
-  >
-  > *Limited at 10 ids, 50 ids for supporting servers*
 ##### Set
 * **\>set modlog \<channel\>**
   > Sets the channel for moderation logging
@@ -199,8 +194,6 @@ To become a supporter send us an email here: ntahsp@gmail.com
   > Lists all channels in which link deletion is disabled
 * **\>list \<autoroles\>**
   > Lists all auto the roles that will be autoassigned when a new member joins
-* **\>list \<blacklist\>**
-  > Lists all the blacklisted ids, *\>add blacklist \<id\>* to add the list
 
 Note: *When calling a list/show command, roles and channels that have been deleted from the guild but they still exist in the database will get removed*
 
