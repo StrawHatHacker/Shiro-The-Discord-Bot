@@ -78,6 +78,8 @@ To become a supporter send us an email here: ntahsp@gmail.com
   > Deletes the original message and then returns its contents
 * **\>embed [text]**
   > Deletes the original message and embeds the text into a cute embed
+* **\>quote [text]**
+  > Deletes the original message and quotes the text. Equivalent to doing `> text....` on discord.
 * **\>dice**
   > Rolls the dice, pretty straightforward
 * **\>8ball \<text\>**
@@ -105,7 +107,7 @@ To become a supporter send us an email here: ntahsp@gmail.com
   > Returns information from iTunes about a product. Types are: *music*, *movie*, *podcast*, *audiobook*, *ebook*, *software*, *all*. Term *all* will return 10 results with that correspond to the *name* regardless of their category
   
   > *ITunes is available only for supporting servers*
-* **\> dog, shibe, cat, bird, fox**
+* **\> dog, shibe, cat, bird, fox, goat, panda, redpanda, koala**
   > Fetches animals pictures
 * **\>comic**
   > Fetches a random comic
@@ -117,6 +119,10 @@ To become a supporter send us an email here: ntahsp@gmail.com
   > Returns the size of your pickle ( ͡° ͜ʖ ͡°) 100% accuracy. Results change every month. Aliases: *pickle*
 * **\>color \<type\> \<specify color properties\>**
   > Returns information about a specified or random color. Type can be either *rgb* or *hex* or *random*. In case of rgb you have to specify 3 values between 0-255 (eg *\>color rgb 100 100 150*). In case of hex you have to specify a hex value(eg *\>color hex ffffff*)
+* **\>meme**
+  > Fetches a random meme from Reddit
+* **\>lyrics <song title>**
+  > Finds lyrics for your favourite songs
 ## Server Configuring/Settings
 > * **If you want help in how to setup certain funtions for your server read the [guide](https://github.com/StrawHatHacker/Shiro-The-Discord-Bot/blob/master/shiro-guide.md)**
 >
