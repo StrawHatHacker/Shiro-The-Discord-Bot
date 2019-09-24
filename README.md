@@ -83,7 +83,7 @@ To become a supporter send us an email here: ntahsp@gmail.com
 * **\>8ball \<text\>**
   > Emulates the 8ball game
 * **\>team \<text\> \<text\> \<text\>....**
-  > Returns an embed seperating the arguments randomly into 2 teams
+  > Seperates the argurments into 2 teams
 * **\>ship \<args1\> | [args2]**
   > Returns how compatible 2 people are with each other (99% of ships have sailed). Results change every month.
 * **\>fight \<member mention\>**
