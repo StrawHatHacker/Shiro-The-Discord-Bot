@@ -11,7 +11,7 @@ A multipurpose bot featuring 600+ reaction anime gifs, full moderation, fully cu
 
 **►** [**Support Server**](https://discord.gg/ypEBGHB)
 
-To become a supporter send us an email here: ntahsp@gmail.com
+Become a supporter: https://www.patreon.com/shiroandyumiko
 
 ***
 ## Documentation
