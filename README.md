@@ -37,10 +37,14 @@ Become a supporter: https://www.patreon.com/shiroandyumiko
     Aliases: *purge*, *clear*
 * **\>warn \<mentions\> [reason]**
   > Warns the mentioned members for an optional reason. Max mentions: 10
-* **\>addrole \<role\> \<target\>**
+* **\>roleadd \<role\> \<target\>**
   > Adds a role to the specified target(member or role). Role can be given by id, name, or role mention. Target can be a member id, member name, member mention, all, humans, bots, a role, role name or role id
 * **\>removerole \<role\> \<target\>**
   > Removes a role from the specified target. Details same as above
+> **\>rolecolor \<hex\> \<role\>**
+  > Changes the color of the specified role.
+> **\>rolementionable \<role\>**
+  > Makes the specified role mentionable
 * **\>warnlog \<add, remove, edit or member\>**
   > Add\* a warnlog entry for a member, eg. *\>warnlog add @Sophie \<reason\>*
   
@@ -69,8 +73,8 @@ Become a supporter: https://www.patreon.com/shiroandyumiko
   > Returns information related to Shiro: Ping, Bot Uptime and System Uptime, Server Count, Shard ID (Aliases: *\>ping*)
 * **\>invite**
   > Returns the bot's invite link and a server invite
-##### Reactions (600+ unique gifs)
-* **\>kiss [members], hug, cuddle pat, lick, tickle, bite, poke, pinch, slap, blush, mad, scared, tired, sleep, yawn, cry, run, nervous, pout, wink, smug, stare, kill, wave, nom, sip**
+##### Reactions (500+ unique gifs)
+* **\>kiss [members], hug, cuddle pat, lick, tickle, bite, poke, pinch, slap, blush, mad, scared, tired, sleep, yawn, cry, run, nervous, pout, wink, smug, stare, punch, kick, wave, nom, sip**
 ##### Games
 * **\>say \<text\>**
   > Deletes the original message and then returns its contents
