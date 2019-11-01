@@ -41,9 +41,9 @@ Become a supporter: https://www.patreon.com/shiroandyumiko
   > Adds a role to the specified target(member or role). Role can be given by id, name, or role mention. Target can be a member id, member name, member mention, all, humans, bots, a role, role name or role id
 * **\>removerole \<role\> \<target\>**
   > Removes a role from the specified target. Details same as above
-> **\>rolecolor \<hex\> \<role\>**
+* **\>rolecolor \<hex\> \<role\>**
   > Changes the color of the specified role.
-> **\>rolementionable \<role\>**
+* **\>rolementionable \<role\>**
   > Makes the specified role mentionable
 * **\>warnlog \<add, remove, edit or member\>**
   > Add\* a warnlog entry for a member, eg. *\>warnlog add @Sophie \<reason\>*
