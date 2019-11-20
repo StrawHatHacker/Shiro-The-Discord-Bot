@@ -11,8 +11,6 @@ A multipurpose bot featuring 600+ reaction anime gifs, full moderation, fully cu
 
 **►** [**Support Server**](https://discord.gg/ypEBGHB)
 
-Become a supporter: https://www.patreon.com/shiroandyumiko
-
 ***
 ## Documentation
 ### Commands
