@@ -37,7 +37,7 @@ A multipurpose bot featuring 600+ reaction anime gifs, full moderation, fully cu
   > Warns the mentioned members for an optional reason. Max mentions: 10
 * **\>roleadd \<role\> \<target\>**
   > Adds a role to the specified target(member or role). Role can be given by id, name, or role mention. Target can be a member id, member name, member mention, all, humans, bots, a role, role name or role id
-* **\>removerole \<role\> \<target\>**
+* **\>roleremove \<role\> \<target\>**
   > Removes a role from the specified target. Details same as above
 * **\>rolecolor \<hex\> \<role\>**
   > Changes the color of the specified role.
@@ -161,6 +161,14 @@ A multipurpose bot featuring 600+ reaction anime gifs, full moderation, fully cu
   > Adds or removes a role from the auto role list. When a user joins they will get assigned all of the specified roles
   > 
   > *Limited at 1 role, 10 roles for supporting servers*
+* **\>add/remove attachmentonly \<channel\>**
+  > Adds or removes a role from the attachment only list. Messages that do not contain media will be deleted in those channels.
+  > 
+  > *Limited at 10 channels, 50 channels for supporting servers*
+* **\>add/remove chatlogignore \<channel\>**
+  > Adds or removes a role from the chatlog ignore list. Message edits/deletes and bulk deletions in those channels will not be logged
+  > 
+  > *Limited at 10 channels, 50 channels for supporting servers*
 ##### Set
 * **\>set modlog \<channel\>**
   > Sets the channel for moderation logging
