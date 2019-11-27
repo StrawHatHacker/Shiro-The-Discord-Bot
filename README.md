@@ -72,7 +72,7 @@ A multipurpose bot featuring 600+ reaction anime gifs, full moderation, fully cu
 * **\>invite**
   > Returns the bot's invite link and a server invite
 ##### Reactions (500+ unique gifs)
-* **\>kiss [members], hug, cuddle pat, lick, tickle, bite, poke, pinch, slap, blush, mad, scared, tired, sleep, yawn, cry, run, nervous, pout, wink, smug, stare, punch, kick, wave, nom, sip**
+* **\>kiss [members], hug, cuddle pat, lick, tickle, bite, poke, pinch, slap, blush, mad, scared, tired, sleep, yawn, cry, run, nervous, pout, wink, smug, stare, punch, kick, wave, nom, sip, dance**
 ##### Games
 * **\>say \<text\>**
   > Deletes the original message and then returns its contents
