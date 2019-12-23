@@ -159,8 +159,8 @@ A multipurpose bot featuring 600+ reaction anime gifs, full moderation, fully cu
   > Adds or removes a role from the auto role list. When a user joins they will get assigned all of the specified roles
   > 
   > *Limited at 1 role, 10 roles for supporting servers*
-* **\>add/remove attachmentonly \<channel\>**
-  > Adds or removes a role from the attachment only list. Messages that do not contain media will be deleted in those channels.
+* **\>add/remove attachmentsonly \<channel\>**
+  > Adds or removes a role from the attachment only channel list. Messages that do not contain media will be deleted in those channels.
   > 
   > *Limited at 10 channels, 50 channels for supporting servers*
 * **\>add/remove chatlogignore \<channel\>**
