@@ -123,8 +123,6 @@ A multipurpose bot featuring 600+ reaction anime gifs, full moderation, fully cu
   > Returns information about a specified or random color. Type can be either *rgb* or *hex* or *random*. In case of rgb you have to specify 3 values between 0-255 (eg *\>color rgb 100 100 150*). In case of hex you have to specify a hex value(eg *\>color hex ffffff*)
 * **\>meme**
   > Fetches a random meme from Reddit. Nsfw channel required
-* **\>lyrics \<song title\>**
-  > Finds lyrics for your favourite songs
 ## Server Configuring/Settings
 > * **If you want help on how to setup certain funtions for your server read the [guide](https://github.com/StrawHatHacker/Shiro-The-Discord-Bot/blob/master/shiro-guide.md)**
 
