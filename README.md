@@ -25,7 +25,7 @@ A multipurpose bot featuring 600+ reaction anime gifs, full moderation, fully cu
   > Mutes the specified member by assigning the the *Mute Role* that has been set with the *\>set muterole \<role\>* command, optional reason. Time format: 0h or 0m. Eg: *>mute @Sophie 2h smells bad*
 * **\>unmute \<member\> [reason]**
   > Unmutes the specified members by unassigning the the *Mute Role* that has been set with the *\>set muterole \<role\>* command, optional reason.
-* **\>prune [member mention or number]**
+* **\>prune <member and/or number>**
   > * `>prune <number>`. Deletes a number of messages
   >
   > * `>prune <member> <number>`. Deletes messages sent by the mentioned member
