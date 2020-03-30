@@ -28,9 +28,7 @@ A multipurpose bot featuring 600+ reaction anime gifs, full moderation, fully cu
 * **\>prune [member mention or number]**
   > * `>prune <number>`. Deletes a number of messages
   >
-  > * `>prune <member mention>`. Deletes as many messages as possible sent by the mentioned member
-  >
-  > * `>prune`. Delete as many messages from Shiro as possible
+  > * `>prune <member> <number>`. Deletes messages sent by the mentioned member
 
     Aliases: *purge*, *clear*
 * **\>warn \<member\> [reason]**
