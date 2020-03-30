@@ -15,16 +15,16 @@ A multipurpose bot featuring 600+ reaction anime gifs, full moderation, fully cu
 ## Documentation
 ### Commands
 ##### Moderation
-* **\>hackban \<user ids\>**
-  > Bans users by id. Also works for users that are not in the server. Max ids: 10
-* **\>ban \<mentions\> [reason]**
-  > Bans the specified members for an optional reason. Max mentions: 10
-* **\>kick \<mentions\> [reason]**
-  > Kicks the specified members for an optional reason. Max mentions: 10
-* **\>mute \[time\] \<mentions\> [reason]**
-  > Mutes the specified members by assigning the the *Mute Role* that has been set with the *\>set muterole \<role\>* command, optional reason. Max mentions: 10. Time format: 0h or 0m. Eg: *>mute 2h @Sophie smells bad*
-* **\>unmute \<mentions\> [reason]**
-  > Unmutes the specified members by unassigning the the *Mute Role* that has been set with the *\>set muterole \<role\>* command, optional reason. Max mentions: 10
+* **\>hackban \<user id\>**
+  > Bans user by id. Also works for users that are not in the server.
+* **\>ban \<member\> [reason]**
+  > Bans the specified member for an optional reason.
+* **\>kick \<member\> [reason]**
+  > Kicks the specified member for an optional reason.
+* **\>mute \<member\> \[time\] [reason]**
+  > Mutes the specified member by assigning the the *Mute Role* that has been set with the *\>set muterole \<role\>* command, optional reason. Time format: 0h or 0m. Eg: *>mute @Sophie 2h smells bad*
+* **\>unmute \<member\> [reason]**
+  > Unmutes the specified members by unassigning the the *Mute Role* that has been set with the *\>set muterole \<role\>* command, optional reason.
 * **\>prune [member mention or number]**
   > * `>prune <number>`. Deletes a number of messages
   >
@@ -33,8 +33,8 @@ A multipurpose bot featuring 600+ reaction anime gifs, full moderation, fully cu
   > * `>prune`. Delete as many messages from Shiro as possible
 
     Aliases: *purge*, *clear*
-* **\>warn \<mentions\> [reason]**
-  > Warns the mentioned members for an optional reason. Max mentions: 10
+* **\>warn \<member\> [reason]**
+  > Warns the mentioned members for an optional reason
 * **\>roleadd \<role\> \<target\>**
   > Adds a role to the specified target(member or role). Role can be given by id, name, or role mention. Target can be a member id, member name, member mention, all, humans, bots, a role, role name or role id
 * **\>roleremove \<role\> \<target\>**
