@@ -4,6 +4,7 @@
 [![Discord Bots](https://discordbots.org/api/widget/servers/444198945183367189.svg?noavatar=true)](https://discordbots.org/bot/444198945183367189)
 [![Discord Bots](https://discordbots.org/api/widget/upvotes/444198945183367189.svg?noavatar=true)](https://discordbots.org/bot/444198945183367189)
 [![Discord Bots](https://discordbots.org/api/widget/owner/444198945183367189.svg?noavatar=true)](https://discordbots.org/bot/444198945183367189)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B81Z3MA)
 
 A multipurpose bot featuring 600+ reaction anime gifs, full moderation, fully customizable server automation, logging and many others features
 
