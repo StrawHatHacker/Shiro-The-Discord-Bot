@@ -20,7 +20,7 @@ __Other__
 > 
 > Links will not be deleted in ignored channels.
 > 
-> For ``<channel>` is recommended to pass a channel ID.
+> For `<channel>` is recommended to pass a channel ID.
 > 
 > For `<number>` you have to pass a value higher than `2` (or `0` to disable mention limiting).
 
