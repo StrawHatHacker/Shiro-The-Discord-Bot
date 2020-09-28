@@ -1,5 +1,3 @@
-![Shiro](https://i.imgur.com/OQPTNgN.png)
-
 [![Discord Bots](https://discordbots.org/api/widget/status/444198945183367189.svg?noavatar=true)](https://discordbots.org/bot/444198945183367189)
 [![Discord Bots](https://discordbots.org/api/widget/servers/444198945183367189.svg?noavatar=true)](https://discordbots.org/bot/444198945183367189)
 [![Discord Bots](https://discordbots.org/api/widget/upvotes/444198945183367189.svg?noavatar=true)](https://discordbots.org/bot/444198945183367189)
