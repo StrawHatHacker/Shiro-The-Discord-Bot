@@ -18,6 +18,8 @@ A multipurpose bot featuring 600+ reaction anime gifs, full moderation, fully cu
   > Bans user by id. Also works for users that are not in the server.
 * **\>ban \<member\> [reason]**
   > Bans the specified member for an optional reason.
+  > 
+  > You can pass a flag (`--nodel`) so Shiro won't delete the user's messages from the past 7 days (eg. `>ban @Sophie smells bad --nodel`)
 * **\>kick \<member\> [reason]**
   > Kicks the specified member for an optional reason.
 * **\>mute \<member\> \[time\] [reason]**
