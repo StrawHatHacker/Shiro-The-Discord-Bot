@@ -1,14 +1,10 @@
-[![Discord Bots](https://discordbots.org/api/widget/status/444198945183367189.svg?noavatar=true)](https://discordbots.org/bot/444198945183367189)
-[![Discord Bots](https://discordbots.org/api/widget/servers/444198945183367189.svg?noavatar=true)](https://discordbots.org/bot/444198945183367189)
-[![Discord Bots](https://discordbots.org/api/widget/upvotes/444198945183367189.svg?noavatar=true)](https://discordbots.org/bot/444198945183367189)
-[![Discord Bots](https://discordbots.org/api/widget/owner/444198945183367189.svg?noavatar=true)](https://discordbots.org/bot/444198945183367189)
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B81Z3MA)
-
 A multipurpose bot featuring 600+ reaction anime gifs, full moderation, fully customizable server automation, logging and many others features
 
 **►** [**Invite Me**](https://discordapp.com/api/oauth2/authorize?client_id=444198945183367189&permissions=0&scope=bot)
 
 **►** [**Support Server**](https://discord.gg/ypEBGHB)
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B81Z3MA)
 
 ***
 ## Documentation
