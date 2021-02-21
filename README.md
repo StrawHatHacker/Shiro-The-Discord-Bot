@@ -1,4 +1,4 @@
-A multipurpose bot featuring 600+ reaction anime gifs, full moderation, fully customizable server automation, logging and many others features
+A multipurpose bot featuring 850+ reaction anime gifs, full moderation, fully customizable server automation, logging and many others features
 
 **►** [**Invite Me**](https://discordapp.com/api/oauth2/authorize?client_id=444198945183367189&permissions=0&scope=bot)
 
