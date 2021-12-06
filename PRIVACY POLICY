@@ -1,0 +1,5 @@
+Shiro does not store any data except Discord IDs(Snowflakes) in it's database. 
+Public messages, DMs, usernames, statistics are not saved in any form. 
+
+Shiro provides such functionality, so deleted or edited messages be logged publicly or privately in a guild channel. That functionality is refered in the "help" as chatlogging.
+Shiro provides guild based warnlogs. Warnlogs save information about the type of warn (ban, kick, mute, etc), a reason and your Discord ID.
