@@ -1,1 +1,1 @@
-Shiro does not store any user or guild data except Discord IDs(Snowflakes) in it's database.
+Shiro does not store any user or guild data.
